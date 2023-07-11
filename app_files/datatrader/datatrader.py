@@ -4,6 +4,8 @@ from numerize.numerize import numerize
 import requests
 import json
 import plotly.graph_objects as go
+import dt.streamlit
+
 
 def send_request(selected_comp):
     try:
@@ -160,6 +162,11 @@ def main():
         st.markdown('### Open Values of '+selected_comp)
         plot_graphs([data.index, data.Open], selected_comp)
         
+application = dt.streamlit.Streamlit()
+
+def __app_main__():
+    return application    
+
 if __name__ == '__main__':
     main()
 
