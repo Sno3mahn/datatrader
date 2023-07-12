@@ -5,11 +5,11 @@ import requests
 import json
 import plotly.graph_objects as go
 import dt.streamlit
+from dt.service import service_host_and_port
 
-
-def send_request(selected_comp):
+def send_request(selected_comp, host, port):
     try:
-        url = 'http://127.0.0.1:5000/data'
+        url = f'http://{host}:{port}/data'
         payload = {'text': selected_comp}
         response = requests.post(url, data=payload)
         # print(response.json())
@@ -22,9 +22,9 @@ def send_request(selected_comp):
         print(e)
         return None
     
-def get_forecast(selected_comp):
+def get_forecast(selected_comp, host, port):
     try:
-        url = 'http://127.0.0.1:5000/forecast'
+        url = f'http://{host}:{port}/forecast'
         payload = {'text': selected_comp}
         response = requests.post(url, data=payload)
         # print(response.json())
@@ -39,7 +39,7 @@ def get_forecast(selected_comp):
     
 def plot_graphs(act, selected_comp):
     
-    fcast_json = json.loads(get_forecast(selected_comp)['data'])
+    fcast_json = json.loads(get_forecast(selected_comp, host, port)['data'])
     forecast = pd.DataFrame(data = fcast_json['data'], columns = fcast_json['columns'])
     forecast.index = pd.to_datetime(fcast_json['index'])
     
@@ -118,6 +118,7 @@ def plot_graphs(act, selected_comp):
 
 
 def main():
+    host, port=service_host_and_port('DT service')
     float_formatter = "{:.2f}".format
     del_col = lambda a,b: 'normal' if a>b else 'inverse'
 
@@ -130,7 +131,7 @@ def main():
     
     if st.button('Submit'):
         
-        df_json = json.loads(send_request(selected_comp)['data'])
+        df_json = json.loads(send_request(selected_comp, host, port)['data'])
         data = pd.DataFrame(data = df_json['data'], columns = df_json['columns'])
         data.index = pd.to_datetime(df_json['index'])
         placeholder = st.empty()
