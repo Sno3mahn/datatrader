@@ -37,7 +37,7 @@ def get_forecast(selected_comp, host, port):
         print(e)
         return None
     
-def plot_graphs(act, selected_comp):
+def plot_graphs(act, selected_comp, host, port):
     
     fcast_json = json.loads(get_forecast(selected_comp, host, port)['data'])
     forecast = pd.DataFrame(data = fcast_json['data'], columns = fcast_json['columns'])
@@ -161,7 +161,7 @@ def main():
         
 
         st.markdown('### Open Values of '+selected_comp)
-        plot_graphs([data.index, data['Open']], selected_comp)
+        plot_graphs([data.index, data['Open']], selected_comp, host, port)
         
 application = dt.streamlit.Streamlit()
 
