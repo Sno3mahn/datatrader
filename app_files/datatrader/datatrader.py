@@ -105,7 +105,7 @@ def plot_graphs(act, selected_comp):
     layout = go.Layout(
         xaxis=dict(title='Date'),
         yaxis=dict(title='Value'),
-        showlegend=True
+        showlegend=False
     )
 
     # Create the figure
@@ -142,26 +142,26 @@ def main():
 
             kpi1.metric(
                 label = 'Today\'s Open',
-                value = float_formatter(data.Open[-1]),
-                delta = float_formatter(data.Open[-1] - data.Open[-2]),
+                value = float_formatter(data['Open'][-1]),
+                delta = float_formatter(data['Open'][-1] - data['Open'][-2]),
             )
             
             kpi2.metric(
                 label = 'Yesterday\'s Close',
-                value = float_formatter(data.Close[-1]),
-                delta = float_formatter(data.Open[-1] - data.Close[-2])
+                value = float_formatter(data['Close'][-1]),
+                delta = float_formatter(data['Close'][-1] - data['Close'][-2])
             )
             
             kpi3.metric(
                 label = 'Volume',
-                value = numerize(int(data.Volume[-1])),
-                delta = numerize(int(data.Volume[-1] - data.Volume[-2]))
+                value = numerize(int(data['Volume'][-1])),
+                delta = numerize(int(data['Volume'][-1] - data['Volume'][-2]))
             )
         
         
 
         st.markdown('### Open Values of '+selected_comp)
-        plot_graphs([data.index, data.Open], selected_comp)
+        plot_graphs([data.index, data['Open']], selected_comp)
         
 application = dt.streamlit.Streamlit()
 
@@ -172,15 +172,15 @@ if __name__ == '__main__':
     main()
 
 # for i in range(200):
-#     new_price = data.Open[-1] + random.rand() * random.choice(range(1,5))
+#     new_price = data['Open'][-1] + random.rand() * random.choice(range(1,5))
         
-#     last_date = data.Open.sort_index().idxmax()
+#     last_date = data['Open'].sort_index().idxmax()
 #     date_obj = last_date + timedelta(days=1)
 #     next_date = date_obj.strftime('%Y-%m-%d')
     
 #     new_row = pd.Series([new_price], index=pd.to_datetime([next_date]))
 #     col1 = st.columns(2)
 #     with col1[0]:
-#         fig = px.line(data.Open.append(new_row))
+#         fig = px.line(data['Open'].append(new_row))
 #         st.write(fig)
 #     time.sleep(2)
