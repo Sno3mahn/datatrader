@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 import yfinance as finance
 from prophet.serialize import model_from_json
-
+from os.path import abspath
 
 app = Flask(__name__)
 
@@ -21,7 +21,7 @@ def fetch_data():
 def forecast_data():
 
     company = request.form['text']
-    with open(f'{company}.json', 'r') as fin:
+    with open(abspath(f'{company}.json'), 'r') as fin:
         m = model_from_json(fin.read())  # Load model 
     future = m.make_future_dataframe(periods=200)
     forecast = m.predict(future)
