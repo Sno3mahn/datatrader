@@ -15,7 +15,7 @@ data = yf.download(tickers = companies,
 df = pd.DataFrame(columns=['ds', 'y'])
 
 df['ds'] = pd.to_datetime(data.index)
-df['y'] = data.Open.WFC.values
+df['y'] = data['Open']['WFC'].values
 
 m = Prophet()
 m.add_seasonality(name='quarterly', period=91.5, fourier_order=8)
