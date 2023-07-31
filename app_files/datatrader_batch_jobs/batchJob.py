@@ -18,3 +18,5 @@ def __batch_main__(sub_job_name, scheduled_time, runtime, part_num, num_parts, j
     logging.info(f"{rundate=}")
     
     forecast.func()
+
+    return 0
