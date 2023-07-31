@@ -47,6 +47,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from prophet import Prophet
 from prophet.serialize import model_to_json
+from os.path import abspath, dirname, join
+from pathlib import Path    
 
 
 def func():
@@ -71,19 +73,8 @@ def func():
 
         forecast = m.predict(future)
 
-        with open(rf'app_files\datatrader_services\{i}.json', 'w') as fout:
+        model_path = join(Path(dirname(abspath(__file__))).parent, 'datatrader_services', f'{i}.json')
+        with open(model_path,'w') as fout:
             fout.write(model_to_json(m))  # Save model
-
-        fig = m.plot_components(forecast)
-
-        plt.figure(figsize=(15, 7))
-        plt.plot(forecast['ds'], forecast['yhat_upper'], color='lightblue')
-        plt.plot(forecast['ds'], forecast['yhat_lower'], color='lightblue')
-        plt.fill_between(forecast['ds'], forecast['yhat_lower'], forecast['yhat_upper'], color='lightblue', alpha=1)
-        plt.plot(forecast['ds'], forecast['yhat'], color='blue')
-        plt.plot(data.Open.AAPL,color='green')
-        plt.xlabel('Time (years)')
-        plt.ylabel('Value')
-        plt.show()
         
 func()
