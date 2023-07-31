@@ -1,0 +1,3 @@
+yfinance==0.2.21
+prophet==1.1.4
+pandas==2.0.2
