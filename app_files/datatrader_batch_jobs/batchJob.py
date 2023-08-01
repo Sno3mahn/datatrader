@@ -15,14 +15,8 @@ def __batch_main__(sub_job_name, scheduled_time, runtime, part_num, num_parts, j
     logging.info(f"{job_config=}")
     logging.info(f"{rundate=}")
     
-<<<<<<< HEAD
     try:
         forecast.func()
         logging.info("Success")
     except:
         logging.info("Failure")
-=======
-    forecast.func()
-
-    return 0
->>>>>>> fc5c20fc5ee65f807a533085033c921884d5602f
