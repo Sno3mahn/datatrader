@@ -44,7 +44,6 @@
 
 import yfinance as yf
 import pandas as pd
-import matplotlib.pyplot as plt
 from prophet import Prophet
 from prophet.serialize import model_to_json
 from os.path import abspath, dirname, join
