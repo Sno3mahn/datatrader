@@ -1,6 +1,6 @@
 import logging
 import sys
-# import forecast
+import forecast
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 
@@ -15,8 +15,8 @@ def __batch_main__(sub_job_name, scheduled_time, runtime, part_num, num_parts, j
     logging.info(f"{job_config=}")
     logging.info(f"{rundate=}")
     
-    # try:
-    #     forecast.func()
-    #     logging.info("Success")
-    # except:
-    #     logging.info("Failure")
+    try:
+        forecast.func()
+        logging.info("Success")
+    except:
+        logging.info("Failure")
