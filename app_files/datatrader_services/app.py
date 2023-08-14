@@ -2,13 +2,10 @@ from flask import Flask, request, jsonify
 import yfinance as finance
 from prophet.serialize import model_from_json
 from os.path import abspath, dirname, join
-
-import pandas as pd
-import dt.user
-from dt.cloud.blob_storage import BlobStorage
 import io
 
-import json
+import dt.user
+from dt.cloud.blob_storage import BlobStorage
 
 app = Flask(__name__)
 
