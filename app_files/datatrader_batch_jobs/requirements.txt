@@ -1,4 +1,6 @@
 yfinance==0.2.21
-prophet==1.1.4
+prophet==1.1.1
 pandas==2.0.2
 pathlib==1.0.1
+scipy==1.11.2
+holidays==0.24
