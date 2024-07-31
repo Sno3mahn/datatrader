@@ -1,0 +1,4303 @@
+[{
+  "project": "boto3",
+  "num_downloads": "52760873"
+}, {
+  "project": "setuptools",
+  "num_downloads": "25743241"
+}, {
+  "project": "urllib3",
+  "num_downloads": "23839168"
+}, {
+  "project": "requests",
+  "num_downloads": "21192865"
+}, {
+  "project": "charset-normalizer",
+  "num_downloads": "19584933"
+}, {
+  "project": "certifi",
+  "num_downloads": "19372003"
+}, {
+  "project": "idna",
+  "num_downloads": "18413821"
+}, {
+  "project": "cryptography",
+  "num_downloads": "18255845"
+}, {
+  "project": "typing-extensions",
+  "num_downloads": "18213015"
+}, {
+  "project": "botocore",
+  "num_downloads": "17678862"
+}, {
+  "project": "packaging",
+  "num_downloads": "17089837"
+}, {
+  "project": "python-dateutil",
+  "num_downloads": "15908959"
+}, {
+  "project": "pyyaml",
+  "num_downloads": "15192242"
+}, {
+  "project": "six",
+  "num_downloads": "14437613"
+}, {
+  "project": "numpy",
+  "num_downloads": "13088875"
+}, {
+  "project": "s3transfer",
+  "num_downloads": "12694188"
+}, {
+  "project": "pip",
+  "num_downloads": "11875741"
+}, {
+  "project": "aiobotocore",
+  "num_downloads": "11848072"
+}, {
+  "project": "cffi",
+  "num_downloads": "11722717"
+}, {
+  "project": "pycparser",
+  "num_downloads": "10874893"
+}, {
+  "project": "grpcio-status",
+  "num_downloads": "10721408"
+}, {
+  "project": "fsspec",
+  "num_downloads": "10324779"
+}, {
+  "project": "importlib-metadata",
+  "num_downloads": "10264346"
+}, {
+  "project": "pandas",
+  "num_downloads": "10164372"
+}, {
+  "project": "pytz",
+  "num_downloads": "9992870"
+}, {
+  "project": "click",
+  "num_downloads": "9859554"
+}, {
+  "project": "s3fs",
+  "num_downloads": "9737329"
+}, {
+  "project": "wheel",
+  "num_downloads": "9650546"
+}, {
+  "project": "pydantic",
+  "num_downloads": "9478764"
+}, {
+  "project": "attrs",
+  "num_downloads": "9214137"
+}, {
+  "project": "google-api-core",
+  "num_downloads": "8886665"
+}, {
+  "project": "zipp",
+  "num_downloads": "8793167"
+}, {
+  "project": "protobuf",
+  "num_downloads": "8607629"
+}, {
+  "project": "pygments",
+  "num_downloads": "8583527"
+}, {
+  "project": "markupsafe",
+  "num_downloads": "8548588"
+}, {
+  "project": "rsa",
+  "num_downloads": "8334268"
+}, {
+  "project": "pyasn1",
+  "num_downloads": "8292464"
+}, {
+  "project": "platformdirs",
+  "num_downloads": "8092822"
+}, {
+  "project": "psutil",
+  "num_downloads": "8082538"
+}, {
+  "project": "jinja2",
+  "num_downloads": "8076203"
+}, {
+  "project": "jmespath",
+  "num_downloads": "8008490"
+}, {
+  "project": "pyjwt",
+  "num_downloads": "7930678"
+}, {
+  "project": "wrapt",
+  "num_downloads": "7673944"
+}, {
+  "project": "colorama",
+  "num_downloads": "7635576"
+}, {
+  "project": "tomli",
+  "num_downloads": "7324331"
+}, {
+  "project": "sqlalchemy",
+  "num_downloads": "7092076"
+}, {
+  "project": "pluggy",
+  "num_downloads": "6614810"
+}, {
+  "project": "pytest",
+  "num_downloads": "6481095"
+}, {
+  "project": "jsonschema",
+  "num_downloads": "6432362"
+}, {
+  "project": "filelock",
+  "num_downloads": "6431569"
+}, {
+  "project": "cachetools",
+  "num_downloads": "6281220"
+}, {
+  "project": "googleapis-common-protos",
+  "num_downloads": "6274080"
+}, {
+  "project": "pynacl",
+  "num_downloads": "5973288"
+}, {
+  "project": "google-auth",
+  "num_downloads": "5965735"
+}, {
+  "project": "requests-oauthlib",
+  "num_downloads": "5929952"
+}, {
+  "project": "virtualenv",
+  "num_downloads": "5923758"
+}, {
+  "project": "oauthlib",
+  "num_downloads": "5918595"
+}, {
+  "project": "pyarrow",
+  "num_downloads": "5756644"
+}, {
+  "project": "awscli",
+  "num_downloads": "5626716"
+}, {
+  "project": "iniconfig",
+  "num_downloads": "5617469"
+}, {
+  "project": "azure-core",
+  "num_downloads": "5571368"
+}, {
+  "project": "pydantic-core",
+  "num_downloads": "5508768"
+}, {
+  "project": "exceptiongroup",
+  "num_downloads": "5479943"
+}, {
+  "project": "pyasn1-modules",
+  "num_downloads": "5414667"
+}, {
+  "project": "aiohttp",
+  "num_downloads": "5379488"
+}, {
+  "project": "pyparsing",
+  "num_downloads": "5158458"
+}, {
+  "project": "multidict",
+  "num_downloads": "5137138"
+}, {
+  "project": "docutils",
+  "num_downloads": "4957770"
+}, {
+  "project": "rich",
+  "num_downloads": "4892335"
+}, {
+  "project": "yarl",
+  "num_downloads": "4827490"
+}, {
+  "project": "isodate",
+  "num_downloads": "4819885"
+}, {
+  "project": "tzdata",
+  "num_downloads": "4767179"
+}, {
+  "project": "pyopenssl",
+  "num_downloads": "4761811"
+}, {
+  "project": "bcrypt",
+  "num_downloads": "4727817"
+}, {
+  "project": "scipy",
+  "num_downloads": "4691415"
+}, {
+  "project": "greenlet",
+  "num_downloads": "4675804"
+}, {
+  "project": "frozenlist",
+  "num_downloads": "4667793"
+}, {
+  "project": "werkzeug",
+  "num_downloads": "4593274"
+}, {
+  "project": "tomlkit",
+  "num_downloads": "4577504"
+}, {
+  "project": "pillow",
+  "num_downloads": "4571241"
+}, {
+  "project": "decorator",
+  "num_downloads": "4478392"
+}, {
+  "project": "grpcio",
+  "num_downloads": "4474346"
+}, {
+  "project": "annotated-types",
+  "num_downloads": "4461944"
+}, {
+  "project": "soupsieve",
+  "num_downloads": "4358852"
+}, {
+  "project": "deprecated",
+  "num_downloads": "4294127"
+}, {
+  "project": "requests-toolbelt",
+  "num_downloads": "4287378"
+}, {
+  "project": "beautifulsoup4",
+  "num_downloads": "4285683"
+}, {
+  "project": "aiosignal",
+  "num_downloads": "4281972"
+}, {
+  "project": "more-itertools",
+  "num_downloads": "4273842"
+}, {
+  "project": "azure-identity",
+  "num_downloads": "4224659"
+}, {
+  "project": "tqdm",
+  "num_downloads": "4179201"
+}, {
+  "project": "async-timeout",
+  "num_downloads": "4163914"
+}, {
+  "project": "coverage",
+  "num_downloads": "4120574"
+}, {
+  "project": "distlib",
+  "num_downloads": "4112051"
+}, {
+  "project": "rpds-py",
+  "num_downloads": "4102104"
+}, {
+  "project": "lxml",
+  "num_downloads": "4014558"
+}, {
+  "project": "sniffio",
+  "num_downloads": "3862739"
+}, {
+  "project": "pathspec",
+  "num_downloads": "3767746"
+}, {
+  "project": "h11",
+  "num_downloads": "3767134"
+}, {
+  "project": "typedload",
+  "num_downloads": "3765756"
+}, {
+  "project": "proto-plus",
+  "num_downloads": "3720486"
+}, {
+  "project": "anyio",
+  "num_downloads": "3642526"
+}, {
+  "project": "msal",
+  "num_downloads": "3525513"
+}, {
+  "project": "referencing",
+  "num_downloads": "3523611"
+}, {
+  "project": "websocket-client",
+  "num_downloads": "3500490"
+}, {
+  "project": "tenacity",
+  "num_downloads": "3457629"
+}, {
+  "project": "httpx",
+  "num_downloads": "3452358"
+}, {
+  "project": "jsonschema-specifications",
+  "num_downloads": "3435549"
+}, {
+  "project": "openpyxl",
+  "num_downloads": "3421270"
+}, {
+  "project": "flask",
+  "num_downloads": "3395818"
+}, {
+  "project": "httpcore",
+  "num_downloads": "3351742"
+}, {
+  "project": "et-xmlfile",
+  "num_downloads": "3345260"
+}, {
+  "project": "mypy-extensions",
+  "num_downloads": "3338788"
+}, {
+  "project": "tabulate",
+  "num_downloads": "3327754"
+}, {
+  "project": "markdown-it-py",
+  "num_downloads": "3322218"
+}, {
+  "project": "msgpack",
+  "num_downloads": "3312772"
+}, {
+  "project": "importlib-resources",
+  "num_downloads": "3281161"
+}, {
+  "project": "poetry-core",
+  "num_downloads": "3262667"
+}, {
+  "project": "google-cloud-storage",
+  "num_downloads": "3256390"
+}, {
+  "project": "ptyprocess",
+  "num_downloads": "3247685"
+}, {
+  "project": "chardet",
+  "num_downloads": "3247481"
+}, {
+  "project": "asn1crypto",
+  "num_downloads": "3229968"
+}, {
+  "project": "pexpect",
+  "num_downloads": "3213617"
+}, {
+  "project": "python-dotenv",
+  "num_downloads": "3129483"
+}, {
+  "project": "mdurl",
+  "num_downloads": "3128252"
+}, {
+  "project": "sortedcontainers",
+  "num_downloads": "3119340"
+}, {
+  "project": "paramiko",
+  "num_downloads": "3029262"
+}, {
+  "project": "scikit-learn",
+  "num_downloads": "3001543"
+}, {
+  "project": "itsdangerous",
+  "num_downloads": "2988055"
+}, {
+  "project": "matplotlib",
+  "num_downloads": "2974148"
+}, {
+  "project": "shellingham",
+  "num_downloads": "2965694"
+}, {
+  "project": "gitpython",
+  "num_downloads": "2948185"
+}, {
+  "project": "google-cloud-core",
+  "num_downloads": "2923338"
+}, {
+  "project": "portalocker",
+  "num_downloads": "2910443"
+}, {
+  "project": "wcwidth",
+  "num_downloads": "2910262"
+}, {
+  "project": "regex",
+  "num_downloads": "2905135"
+}, {
+  "project": "py",
+  "num_downloads": "2863725"
+}, {
+  "project": "google-resumable-media",
+  "num_downloads": "2848152"
+}, {
+  "project": "opentelemetry-sdk",
+  "num_downloads": "2833650"
+}, {
+  "project": "poetry-plugin-export",
+  "num_downloads": "2798133"
+}, {
+  "project": "backoff",
+  "num_downloads": "2789771"
+}, {
+  "project": "psycopg2-binary",
+  "num_downloads": "2781531"
+}, {
+  "project": "msal-extensions",
+  "num_downloads": "2776380"
+}, {
+  "project": "pkginfo",
+  "num_downloads": "2749944"
+}, {
+  "project": "smmap",
+  "num_downloads": "2713597"
+}, {
+  "project": "gitdb",
+  "num_downloads": "2701791"
+}, {
+  "project": "snowflake-connector-python",
+  "num_downloads": "2689817"
+}, {
+  "project": "azure-storage-blob",
+  "num_downloads": "2685544"
+}, {
+  "project": "keyring",
+  "num_downloads": "2627023"
+}, {
+  "project": "dnspython",
+  "num_downloads": "2608628"
+}, {
+  "project": "ruamel-yaml",
+  "num_downloads": "2573578"
+}, {
+  "project": "pytest-cov",
+  "num_downloads": "2541739"
+}, {
+  "project": "dill",
+  "num_downloads": "2536599"
+}, {
+  "project": "pygithub",
+  "num_downloads": "2532823"
+}, {
+  "project": "build",
+  "num_downloads": "2532136"
+}, {
+  "project": "secretstorage",
+  "num_downloads": "2441747"
+}, {
+  "project": "jeepney",
+  "num_downloads": "2438197"
+}, {
+  "project": "azure-mgmt-resource",
+  "num_downloads": "2415685"
+}, {
+  "project": "argcomplete",
+  "num_downloads": "2403075"
+}, {
+  "project": "pyproject-hooks",
+  "num_downloads": "2400690"
+}, {
+  "project": "sqlparse",
+  "num_downloads": "2394908"
+}, {
+  "project": "google-crc32c",
+  "num_downloads": "2394122"
+}, {
+  "project": "trove-classifiers",
+  "num_downloads": "2360645"
+}, {
+  "project": "jaraco-classes",
+  "num_downloads": "2360182"
+}, {
+  "project": "networkx",
+  "num_downloads": "2350718"
+}, {
+  "project": "distro",
+  "num_downloads": "2340312"
+}, {
+  "project": "kiwisolver",
+  "num_downloads": "2315601"
+}, {
+  "project": "rapidfuzz",
+  "num_downloads": "2312261"
+}, {
+  "project": "joblib",
+  "num_downloads": "2298082"
+}, {
+  "project": "blinker",
+  "num_downloads": "2291532"
+}, {
+  "project": "fonttools",
+  "num_downloads": "2291452"
+}, {
+  "project": "azure-mgmt-storage",
+  "num_downloads": "2284765"
+}, {
+  "project": "grpcio-tools",
+  "num_downloads": "2277906"
+}, {
+  "project": "opentelemetry-api",
+  "num_downloads": "2272579"
+}, {
+  "project": "msrest",
+  "num_downloads": "2260479"
+}, {
+  "project": "prompt-toolkit",
+  "num_downloads": "2255458"
+}, {
+  "project": "toml",
+  "num_downloads": "2253310"
+}, {
+  "project": "xmltodict",
+  "num_downloads": "2249831"
+}, {
+  "project": "threadpoolctl",
+  "num_downloads": "2241248"
+}, {
+  "project": "mccabe",
+  "num_downloads": "2220145"
+}, {
+  "project": "docker",
+  "num_downloads": "2213954"
+}, {
+  "project": "ruamel-yaml-clib",
+  "num_downloads": "2213801"
+}, {
+  "project": "fastjsonschema",
+  "num_downloads": "2212850"
+}, {
+  "project": "asgiref",
+  "num_downloads": "2147550"
+}, {
+  "project": "alembic",
+  "num_downloads": "2132950"
+}, {
+  "project": "gunicorn",
+  "num_downloads": "2109770"
+}, {
+  "project": "marshmallow",
+  "num_downloads": "2101603"
+}, {
+  "project": "azure-mgmt-containerregistry",
+  "num_downloads": "2079812"
+}, {
+  "project": "cycler",
+  "num_downloads": "2028912"
+}, {
+  "project": "google-auth-oauthlib",
+  "num_downloads": "1996417"
+}, {
+  "project": "cloudpickle",
+  "num_downloads": "1986823"
+}, {
+  "project": "google-cloud-bigquery",
+  "num_downloads": "1980365"
+}, {
+  "project": "types-requests",
+  "num_downloads": "1973594"
+}, {
+  "project": "azure-common",
+  "num_downloads": "1967290"
+}, {
+  "project": "google-api-python-client",
+  "num_downloads": "1934146"
+}, {
+  "project": "py4j",
+  "num_downloads": "1899023"
+}, {
+  "project": "black",
+  "num_downloads": "1896100"
+}, {
+  "project": "ipython",
+  "num_downloads": "1895078"
+}, {
+  "project": "termcolor",
+  "num_downloads": "1895064"
+}, {
+  "project": "pycodestyle",
+  "num_downloads": "1874835"
+}, {
+  "project": "isort",
+  "num_downloads": "1864463"
+}, {
+  "project": "cachecontrol",
+  "num_downloads": "1858707"
+}, {
+  "project": "defusedxml",
+  "num_downloads": "1855643"
+}, {
+  "project": "babel",
+  "num_downloads": "1831031"
+}, {
+  "project": "installer",
+  "num_downloads": "1795882"
+}, {
+  "project": "tornado",
+  "num_downloads": "1785870"
+}, {
+  "project": "traitlets",
+  "num_downloads": "1781349"
+}, {
+  "project": "fastapi",
+  "num_downloads": "1777002"
+}, {
+  "project": "cython",
+  "num_downloads": "1775581"
+}, {
+  "project": "uritemplate",
+  "num_downloads": "1775388"
+}, {
+  "project": "websockets",
+  "num_downloads": "1773656"
+}, {
+  "project": "tzlocal",
+  "num_downloads": "1768499"
+}, {
+  "project": "redis",
+  "num_downloads": "1764622"
+}, {
+  "project": "azure-mgmt-authorization",
+  "num_downloads": "1745140"
+}, {
+  "project": "azure-mgmt-compute",
+  "num_downloads": "1730771"
+}, {
+  "project": "mako",
+  "num_downloads": "1723838"
+}, {
+  "project": "dulwich",
+  "num_downloads": "1708814"
+}, {
+  "project": "awswrangler",
+  "num_downloads": "1700614"
+}, {
+  "project": "opentelemetry-semantic-conventions",
+  "num_downloads": "1698967"
+}, {
+  "project": "poetry",
+  "num_downloads": "1686078"
+}, {
+  "project": "future",
+  "num_downloads": "1683214"
+}, {
+  "project": "httplib2",
+  "num_downloads": "1681843"
+}, {
+  "project": "crashtest",
+  "num_downloads": "1672746"
+}, {
+  "project": "google-auth-httplib2",
+  "num_downloads": "1668748"
+}, {
+  "project": "kubernetes",
+  "num_downloads": "1666500"
+}, {
+  "project": "azure-mgmt-sql",
+  "num_downloads": "1665235"
+}, {
+  "project": "azure-mgmt-web",
+  "num_downloads": "1657228"
+}, {
+  "project": "pyrsistent",
+  "num_downloads": "1656231"
+}, {
+  "project": "markdown",
+  "num_downloads": "1647421"
+}, {
+  "project": "jsonpointer",
+  "num_downloads": "1635474"
+}, {
+  "project": "contourpy",
+  "num_downloads": "1624441"
+}, {
+  "project": "typer",
+  "num_downloads": "1620421"
+}, {
+  "project": "nest-asyncio",
+  "num_downloads": "1617537"
+}, {
+  "project": "uvicorn",
+  "num_downloads": "1610381"
+}, {
+  "project": "jedi",
+  "num_downloads": "1609237"
+}, {
+  "project": "pymysql",
+  "num_downloads": "1597363"
+}, {
+  "project": "cleo",
+  "num_downloads": "1593993"
+}, {
+  "project": "mypy",
+  "num_downloads": "1589246"
+}, {
+  "project": "azure-mgmt-keyvault",
+  "num_downloads": "1586508"
+}, {
+  "project": "starlette",
+  "num_downloads": "1583504"
+}, {
+  "project": "datadog",
+  "num_downloads": "1561579"
+}, {
+  "project": "webencodings",
+  "num_downloads": "1556946"
+}, {
+  "project": "parso",
+  "num_downloads": "1550542"
+}, {
+  "project": "faker",
+  "num_downloads": "1550103"
+}, {
+  "project": "retry",
+  "num_downloads": "1548646"
+}, {
+  "project": "pyflakes",
+  "num_downloads": "1537661"
+}, {
+  "project": "matplotlib-inline",
+  "num_downloads": "1534476"
+}, {
+  "project": "grpc-google-iam-v1",
+  "num_downloads": "1533506"
+}, {
+  "project": "pysocks",
+  "num_downloads": "1518354"
+}, {
+  "project": "prometheus-client",
+  "num_downloads": "1511563"
+}, {
+  "project": "orjson",
+  "num_downloads": "1503371"
+}, {
+  "project": "ply",
+  "num_downloads": "1494801"
+}, {
+  "project": "humanfriendly",
+  "num_downloads": "1477405"
+}, {
+  "project": "huggingface-hub",
+  "num_downloads": "1477190"
+}, {
+  "project": "pycryptodomex",
+  "num_downloads": "1460787"
+}, {
+  "project": "transformers",
+  "num_downloads": "1437028"
+}, {
+  "project": "sentry-sdk",
+  "num_downloads": "1433426"
+}, {
+  "project": "azure-mgmt-monitor",
+  "num_downloads": "1416583"
+}, {
+  "project": "flake8",
+  "num_downloads": "1414167"
+}, {
+  "project": "setuptools-scm",
+  "num_downloads": "1391076"
+}, {
+  "project": "scramp",
+  "num_downloads": "1388376"
+}, {
+  "project": "pendulum",
+  "num_downloads": "1372731"
+}, {
+  "project": "asttokens",
+  "num_downloads": "1371940"
+}, {
+  "project": "azure-cli",
+  "num_downloads": "1369093"
+}, {
+  "project": "lazy-object-proxy",
+  "num_downloads": "1365904"
+}, {
+  "project": "torch",
+  "num_downloads": "1351986"
+}, {
+  "project": "adal",
+  "num_downloads": "1348535"
+}, {
+  "project": "typing-inspect",
+  "num_downloads": "1337834"
+}, {
+  "project": "astroid",
+  "num_downloads": "1334744"
+}, {
+  "project": "executing",
+  "num_downloads": "1334245"
+}, {
+  "project": "pure-eval",
+  "num_downloads": "1330747"
+}, {
+  "project": "loguru",
+  "num_downloads": "1314295"
+}, {
+  "project": "stack-data",
+  "num_downloads": "1308506"
+}, {
+  "project": "pyzmq",
+  "num_downloads": "1305765"
+}, {
+  "project": "toolz",
+  "num_downloads": "1292579"
+}, {
+  "project": "email-validator",
+  "num_downloads": "1292189"
+}, {
+  "project": "pycryptodome",
+  "num_downloads": "1283759"
+}, {
+  "project": "pylint",
+  "num_downloads": "1278661"
+}, {
+  "project": "debugpy",
+  "num_downloads": "1278630"
+}, {
+  "project": "pymongo",
+  "num_downloads": "1275981"
+}, {
+  "project": "python-json-logger",
+  "num_downloads": "1273326"
+}, {
+  "project": "sphinx",
+  "num_downloads": "1262533"
+}, {
+  "project": "openai",
+  "num_downloads": "1261976"
+}, {
+  "project": "elasticsearch",
+  "num_downloads": "1258831"
+}, {
+  "project": "sympy",
+  "num_downloads": "1237182"
+}, {
+  "project": "pytest-runner",
+  "num_downloads": "1231316"
+}, {
+  "project": "bs4",
+  "num_downloads": "1229424"
+}, {
+  "project": "jsonpatch",
+  "num_downloads": "1229356"
+}, {
+  "project": "structlog",
+  "num_downloads": "1220679"
+}, {
+  "project": "python-slugify",
+  "num_downloads": "1217890"
+}, {
+  "project": "shapely",
+  "num_downloads": "1211182"
+}, {
+  "project": "zope-interface",
+  "num_downloads": "1203445"
+}, {
+  "project": "types-python-dateutil",
+  "num_downloads": "1202064"
+}, {
+  "project": "croniter",
+  "num_downloads": "1198940"
+}, {
+  "project": "sagemaker",
+  "num_downloads": "1198497"
+}, {
+  "project": "azure-mgmt-core",
+  "num_downloads": "1197564"
+}, {
+  "project": "azure-mgmt-containerservice",
+  "num_downloads": "1194595"
+}, {
+  "project": "jupyter-core",
+  "num_downloads": "1185411"
+}, {
+  "project": "snowflake-sqlalchemy",
+  "num_downloads": "1179952"
+}, {
+  "project": "pytest-xdist",
+  "num_downloads": "1171189"
+}, {
+  "project": "azure-mgmt-network",
+  "num_downloads": "1170214"
+}, {
+  "project": "nodeenv",
+  "num_downloads": "1164113"
+}, {
+  "project": "ipykernel",
+  "num_downloads": "1159607"
+}, {
+  "project": "pytest-mock",
+  "num_downloads": "1152222"
+}, {
+  "project": "opentelemetry-proto",
+  "num_downloads": "1150183"
+}, {
+  "project": "jsonpath-ng",
+  "num_downloads": "1149150"
+}, {
+  "project": "msrestazure",
+  "num_downloads": "1148087"
+}, {
+  "project": "arrow",
+  "num_downloads": "1146866"
+}, {
+  "project": "requests-aws4auth",
+  "num_downloads": "1146070"
+}, {
+  "project": "azure-mgmt-rdbms",
+  "num_downloads": "1145693"
+}, {
+  "project": "watchdog",
+  "num_downloads": "1128560"
+}, {
+  "project": "azure-mgmt-servicebus",
+  "num_downloads": "1126683"
+}, {
+  "project": "pkgutil-resolve-name",
+  "num_downloads": "1124389"
+}, {
+  "project": "google-cloud-pubsub",
+  "num_downloads": "1118516"
+}, {
+  "project": "jupyter-client",
+  "num_downloads": "1117139"
+}, {
+  "project": "redshift-connector",
+  "num_downloads": "1109681"
+}, {
+  "project": "nbconvert",
+  "num_downloads": "1099232"
+}, {
+  "project": "pytzdata",
+  "num_downloads": "1096045"
+}, {
+  "project": "execnet",
+  "num_downloads": "1094631"
+}, {
+  "project": "azure-keyvault-keys",
+  "num_downloads": "1094514"
+}, {
+  "project": "mpmath",
+  "num_downloads": "1094482"
+}, {
+  "project": "azureml-core",
+  "num_downloads": "1086101"
+}, {
+  "project": "pre-commit",
+  "num_downloads": "1082412"
+}, {
+  "project": "xlsxwriter",
+  "num_downloads": "1078243"
+}, {
+  "project": "azure-keyvault-secrets",
+  "num_downloads": "1076661"
+}, {
+  "project": "aioitertools",
+  "num_downloads": "1075428"
+}, {
+  "project": "pyspark",
+  "num_downloads": "1069805"
+}, {
+  "project": "identify",
+  "num_downloads": "1067036"
+}, {
+  "project": "typeguard",
+  "num_downloads": "1061142"
+}, {
+  "project": "azure-mgmt-cosmosdb",
+  "num_downloads": "1060250"
+}, {
+  "project": "multiprocess",
+  "num_downloads": "1055737"
+}, {
+  "project": "google-cloud-secret-manager",
+  "num_downloads": "1053774"
+}, {
+  "project": "cattrs",
+  "num_downloads": "1052366"
+}, {
+  "project": "tokenizers",
+  "num_downloads": "1052101"
+}, {
+  "project": "pg8000",
+  "num_downloads": "1051034"
+}, {
+  "project": "semver",
+  "num_downloads": "1046739"
+}, {
+  "project": "uvloop",
+  "num_downloads": "1043586"
+}, {
+  "project": "rfc3339-validator",
+  "num_downloads": "1042671"
+}, {
+  "project": "selenium",
+  "num_downloads": "1037168"
+}, {
+  "project": "httptools",
+  "num_downloads": "1034112"
+}, {
+  "project": "azure-graphrbac",
+  "num_downloads": "1032896"
+}, {
+  "project": "jupyter-server",
+  "num_downloads": "1032313"
+}, {
+  "project": "nbformat",
+  "num_downloads": "1028492"
+}, {
+  "project": "requests-file",
+  "num_downloads": "1027253"
+}, {
+  "project": "cfgv",
+  "num_downloads": "1018098"
+}, {
+  "project": "text-unidecode",
+  "num_downloads": "1015356"
+}, {
+  "project": "responses",
+  "num_downloads": "1013689"
+}, {
+  "project": "oscrypto",
+  "num_downloads": "1013512"
+}, {
+  "project": "opentelemetry-exporter-otlp-proto-http",
+  "num_downloads": "1008007"
+}, {
+  "project": "smart-open",
+  "num_downloads": "1005708"
+}, {
+  "project": "mock",
+  "num_downloads": "1001322"
+}, {
+  "project": "progressbar2",
+  "num_downloads": "987926"
+}, {
+  "project": "watchfiles",
+  "num_downloads": "981472"
+}, {
+  "project": "pyodbc",
+  "num_downloads": "977187"
+}, {
+  "project": "azure-mgmt-iothub",
+  "num_downloads": "973807"
+}, {
+  "project": "slack-sdk",
+  "num_downloads": "970226"
+}, {
+  "project": "absl-py",
+  "num_downloads": "967852"
+}, {
+  "project": "monotonic",
+  "num_downloads": "967535"
+}, {
+  "project": "appdirs",
+  "num_downloads": "958310"
+}, {
+  "project": "aiofiles",
+  "num_downloads": "956293"
+}, {
+  "project": "html5lib",
+  "num_downloads": "950954"
+}, {
+  "project": "azure-multiapi-storage",
+  "num_downloads": "949838"
+}, {
+  "project": "bleach",
+  "num_downloads": "948448"
+}, {
+  "project": "lz4",
+  "num_downloads": "943271"
+}, {
+  "project": "tinycss2",
+  "num_downloads": "941629"
+}, {
+  "project": "apache-airflow",
+  "num_downloads": "941570"
+}, {
+  "project": "comm",
+  "num_downloads": "939863"
+}, {
+  "project": "notebook",
+  "num_downloads": "939201"
+}, {
+  "project": "mysql-connector-python",
+  "num_downloads": "935046"
+}, {
+  "project": "tb-nightly",
+  "num_downloads": "934288"
+}, {
+  "project": "python-multipart",
+  "num_downloads": "931055"
+}, {
+  "project": "mistune",
+  "num_downloads": "929509"
+}, {
+  "project": "opentelemetry-exporter-otlp-proto-grpc",
+  "num_downloads": "928531"
+}, {
+  "project": "ruff",
+  "num_downloads": "925775"
+}, {
+  "project": "azure-mgmt-security",
+  "num_downloads": "924843"
+}, {
+  "project": "azure-cosmos",
+  "num_downloads": "916253"
+}, {
+  "project": "pbr",
+  "num_downloads": "896292"
+}, {
+  "project": "azure-mgmt-databoxedge",
+  "num_downloads": "896255"
+}, {
+  "project": "xlrd",
+  "num_downloads": "895056"
+}, {
+  "project": "opensearch-py",
+  "num_downloads": "888048"
+}, {
+  "project": "google-pasta",
+  "num_downloads": "881167"
+}, {
+  "project": "azure-mgmt-devtestlabs",
+  "num_downloads": "878491"
+}, {
+  "project": "azure-cli-core",
+  "num_downloads": "877058"
+}, {
+  "project": "aenum",
+  "num_downloads": "873819"
+}, {
+  "project": "nbclient",
+  "num_downloads": "873452"
+}, {
+  "project": "dataclasses-json",
+  "num_downloads": "869930"
+}, {
+  "project": "langchain-core",
+  "num_downloads": "860855"
+}, {
+  "project": "flatbuffers",
+  "num_downloads": "860162"
+}, {
+  "project": "sshtunnel",
+  "num_downloads": "852630"
+}, {
+  "project": "google-cloud-aiplatform",
+  "num_downloads": "846655"
+}, {
+  "project": "tensorboard",
+  "num_downloads": "841623"
+}, {
+  "project": "confluent-kafka",
+  "num_downloads": "835645"
+}, {
+  "project": "jupyterlab",
+  "num_downloads": "833510"
+}, {
+  "project": "argon2-cffi",
+  "num_downloads": "831809"
+}, {
+  "project": "simplejson",
+  "num_downloads": "828545"
+}, {
+  "project": "mdit-py-plugins",
+  "num_downloads": "823658"
+}, {
+  "project": "analytics-python",
+  "num_downloads": "822073"
+}, {
+  "project": "altair",
+  "num_downloads": "821631"
+}, {
+  "project": "jupyterlab-server",
+  "num_downloads": "819167"
+}, {
+  "project": "ordered-set",
+  "num_downloads": "818333"
+}, {
+  "project": "google-cloud-resource-manager",
+  "num_downloads": "815516"
+}, {
+  "project": "argon2-cffi-bindings",
+  "num_downloads": "814226"
+}, {
+  "project": "entrypoints",
+  "num_downloads": "809689"
+}, {
+  "project": "google-cloud-appengine-logging",
+  "num_downloads": "807352"
+}, {
+  "project": "opentelemetry-exporter-otlp",
+  "num_downloads": "805909"
+}, {
+  "project": "pytest-asyncio",
+  "num_downloads": "803348"
+}, {
+  "project": "db-dtypes",
+  "num_downloads": "801170"
+}, {
+  "project": "lockfile",
+  "num_downloads": "789003"
+}, {
+  "project": "numba",
+  "num_downloads": "785868"
+}, {
+  "project": "setproctitle",
+  "num_downloads": "783481"
+}, {
+  "project": "click-man",
+  "num_downloads": "782930"
+}, {
+  "project": "gcsfs",
+  "num_downloads": "779466"
+}, {
+  "project": "imageio",
+  "num_downloads": "779073"
+}, {
+  "project": "nltk",
+  "num_downloads": "776899"
+}, {
+  "project": "azure-storage-file-datalake",
+  "num_downloads": "772519"
+}, {
+  "project": "antlr4-python3-runtime",
+  "num_downloads": "770208"
+}, {
+  "project": "hvac",
+  "num_downloads": "769933"
+}, {
+  "project": "overrides",
+  "num_downloads": "769601"
+}, {
+  "project": "evergreen-py",
+  "num_downloads": "768429"
+}, {
+  "project": "mlflow",
+  "num_downloads": "766455"
+}, {
+  "project": "prettytable",
+  "num_downloads": "766334"
+}, {
+  "project": "wsproto",
+  "num_downloads": "765555"
+}, {
+  "project": "trio",
+  "num_downloads": "765404"
+}, {
+  "project": "opentelemetry-exporter-otlp-proto-common",
+  "num_downloads": "765079"
+}, {
+  "project": "snowballstemmer",
+  "num_downloads": "761420"
+}, {
+  "project": "pkce",
+  "num_downloads": "761088"
+}, {
+  "project": "python-utils",
+  "num_downloads": "760903"
+}, {
+  "project": "graphql-core",
+  "num_downloads": "759744"
+}, {
+  "project": "json5",
+  "num_downloads": "757980"
+}, {
+  "project": "xgboost",
+  "num_downloads": "751812"
+}, {
+  "project": "pandocfilters",
+  "num_downloads": "750847"
+}, {
+  "project": "plotly",
+  "num_downloads": "750405"
+}, {
+  "project": "ansible-core",
+  "num_downloads": "749550"
+}, {
+  "project": "ujson",
+  "num_downloads": "745341"
+}, {
+  "project": "types-pyyaml",
+  "num_downloads": "744367"
+}, {
+  "project": "jupyterlab-pygments",
+  "num_downloads": "744282"
+}, {
+  "project": "django",
+  "num_downloads": "744199"
+}, {
+  "project": "inflection",
+  "num_downloads": "742827"
+}, {
+  "project": "ansible",
+  "num_downloads": "741060"
+}, {
+  "project": "send2trash",
+  "num_downloads": "739567"
+}, {
+  "project": "jaraco-functools",
+  "num_downloads": "739352"
+}, {
+  "project": "google-cloud-logging",
+  "num_downloads": "738512"
+}, {
+  "project": "azure-mgmt-msi",
+  "num_downloads": "736442"
+}, {
+  "project": "pandas-gbq",
+  "num_downloads": "735512"
+}, {
+  "project": "databricks-sql-connector",
+  "num_downloads": "733047"
+}, {
+  "project": "outcome",
+  "num_downloads": "732310"
+}, {
+  "project": "applicationinsights",
+  "num_downloads": "730365"
+}, {
+  "project": "hatchling",
+  "num_downloads": "727098"
+}, {
+  "project": "h5py",
+  "num_downloads": "726324"
+}, {
+  "project": "azure-datalake-store",
+  "num_downloads": "723589"
+}, {
+  "project": "knack",
+  "num_downloads": "722492"
+}, {
+  "project": "azure-mgmt-containerinstance",
+  "num_downloads": "718047"
+}, {
+  "project": "schema",
+  "num_downloads": "717556"
+}, {
+  "project": "azure-mgmt-dns",
+  "num_downloads": "716120"
+}, {
+  "project": "asynctest",
+  "num_downloads": "713745"
+}, {
+  "project": "invoke",
+  "num_downloads": "713047"
+}, {
+  "project": "coloredlogs",
+  "num_downloads": "710963"
+}, {
+  "project": "db-contrib-tool",
+  "num_downloads": "709493"
+}, {
+  "project": "llvmlite",
+  "num_downloads": "708115"
+}, {
+  "project": "ipywidgets",
+  "num_downloads": "703238"
+}, {
+  "project": "widgetsnbextension",
+  "num_downloads": "702362"
+}, {
+  "project": "google-cloud-bigquery-storage",
+  "num_downloads": "699184"
+}, {
+  "project": "flask-caching",
+  "num_downloads": "694573"
+}, {
+  "project": "docstring-parser",
+  "num_downloads": "693242"
+}, {
+  "project": "safetensors",
+  "num_downloads": "690133"
+}, {
+  "project": "tensorflow",
+  "num_downloads": "688160"
+}, {
+  "project": "jupyterlab-widgets",
+  "num_downloads": "686537"
+}, {
+  "project": "seaborn",
+  "num_downloads": "686282"
+}, {
+  "project": "jaraco-context",
+  "num_downloads": "680674"
+}, {
+  "project": "tiktoken",
+  "num_downloads": "680305"
+}, {
+  "project": "apache-airflow-providers-common-sql",
+  "num_downloads": "677628"
+}, {
+  "project": "tox",
+  "num_downloads": "673130"
+}, {
+  "project": "notebook-shim",
+  "num_downloads": "672360"
+}, {
+  "project": "azure-storage-common",
+  "num_downloads": "669166"
+}, {
+  "project": "webcolors",
+  "num_downloads": "668577"
+}, {
+  "project": "opencensus",
+  "num_downloads": "667705"
+}, {
+  "project": "xxhash",
+  "num_downloads": "664557"
+}, {
+  "project": "great-expectations",
+  "num_downloads": "662915"
+}, {
+  "project": "oauth2client",
+  "num_downloads": "662344"
+}, {
+  "project": "terminado",
+  "num_downloads": "662137"
+}, {
+  "project": "gevent",
+  "num_downloads": "661436"
+}, {
+  "project": "deprecation",
+  "num_downloads": "661353"
+}, {
+  "project": "azure-servicebus",
+  "num_downloads": "661094"
+}, {
+  "project": "azure-nspkg",
+  "num_downloads": "661092"
+}, {
+  "project": "zstandard",
+  "num_downloads": "660066"
+}, {
+  "project": "rfc3986",
+  "num_downloads": "656461"
+}, {
+  "project": "sentencepiece",
+  "num_downloads": "651275"
+}, {
+  "project": "fastapi-cli",
+  "num_downloads": "650967"
+}, {
+  "project": "azure-mgmt-redis",
+  "num_downloads": "649571"
+}, {
+  "project": "langchain",
+  "num_downloads": "649104"
+}, {
+  "project": "rfc3986-validator",
+  "num_downloads": "646908"
+}, {
+  "project": "pickleshare",
+  "num_downloads": "644627"
+}, {
+  "project": "opencensus-ext-azure",
+  "num_downloads": "644565"
+}, {
+  "project": "azure-mgmt-cdn",
+  "num_downloads": "644127"
+}, {
+  "project": "fqdn",
+  "num_downloads": "643242"
+}, {
+  "project": "opentelemetry-instrumentation",
+  "num_downloads": "643107"
+}, {
+  "project": "thrift",
+  "num_downloads": "642355"
+}, {
+  "project": "azure-mgmt-loganalytics",
+  "num_downloads": "642254"
+}, {
+  "project": "psycopg2",
+  "num_downloads": "642159"
+}, {
+  "project": "colorlog",
+  "num_downloads": "639832"
+}, {
+  "project": "isoduration",
+  "num_downloads": "639053"
+}, {
+  "project": "aniso8601",
+  "num_downloads": "638934"
+}, {
+  "project": "click-plugins",
+  "num_downloads": "637347"
+}, {
+  "project": "uri-template",
+  "num_downloads": "637214"
+}, {
+  "project": "azure-data-tables",
+  "num_downloads": "633833"
+}, {
+  "project": "dataclasses",
+  "num_downloads": "633021"
+}, {
+  "project": "cached-property",
+  "num_downloads": "632154"
+}, {
+  "project": "jupyter-events",
+  "num_downloads": "629743"
+}, {
+  "project": "argparse",
+  "num_downloads": "629701"
+}, {
+  "project": "azure-mgmt-recoveryservicesbackup",
+  "num_downloads": "626328"
+}, {
+  "project": "backcall",
+  "num_downloads": "626194"
+}, {
+  "project": "fastavro",
+  "num_downloads": "619132"
+}, {
+  "project": "databricks-sdk",
+  "num_downloads": "619112"
+}, {
+  "project": "azure-batch",
+  "num_downloads": "615911"
+}, {
+  "project": "async-lru",
+  "num_downloads": "614867"
+}, {
+  "project": "pip-tools",
+  "num_downloads": "614854"
+}, {
+  "project": "opencv-python",
+  "num_downloads": "610679"
+}, {
+  "project": "jsonpickle",
+  "num_downloads": "610431"
+}, {
+  "project": "azure-mgmt-batch",
+  "num_downloads": "610120"
+}, {
+  "project": "uv",
+  "num_downloads": "603178"
+}, {
+  "project": "azure-keyvault",
+  "num_downloads": "602307"
+}, {
+  "project": "tldextract",
+  "num_downloads": "599052"
+}, {
+  "project": "retrying",
+  "num_downloads": "598901"
+}, {
+  "project": "azure-mgmt-trafficmanager",
+  "num_downloads": "597543"
+}, {
+  "project": "azure-mgmt-eventhub",
+  "num_downloads": "597159"
+}, {
+  "project": "configparser",
+  "num_downloads": "597145"
+}, {
+  "project": "torchvision",
+  "num_downloads": "593742"
+}, {
+  "project": "jupyter-server-terminals",
+  "num_downloads": "590612"
+}, {
+  "project": "contextlib2",
+  "num_downloads": "590087"
+}, {
+  "project": "pywin32",
+  "num_downloads": "589312"
+}, {
+  "project": "statsmodels",
+  "num_downloads": "589002"
+}, {
+  "project": "azure-mgmt-applicationinsights",
+  "num_downloads": "588950"
+}, {
+  "project": "zeep",
+  "num_downloads": "588749"
+}, {
+  "project": "brotli",
+  "num_downloads": "587585"
+}, {
+  "project": "azure-synapse-artifacts",
+  "num_downloads": "585843"
+}, {
+  "project": "semantic-version",
+  "num_downloads": "585786"
+}, {
+  "project": "parameterized",
+  "num_downloads": "584959"
+}, {
+  "project": "triton",
+  "num_downloads": "584883"
+}, {
+  "project": "gast",
+  "num_downloads": "583868"
+}, {
+  "project": "azure-mgmt-hdinsight",
+  "num_downloads": "583478"
+}, {
+  "project": "backports-tarfile",
+  "num_downloads": "582425"
+}, {
+  "project": "freezegun",
+  "num_downloads": "580565"
+}, {
+  "project": "trio-websocket",
+  "num_downloads": "579128"
+}, {
+  "project": "celery",
+  "num_downloads": "578869"
+}, {
+  "project": "google-cloud-audit-log",
+  "num_downloads": "574203"
+}, {
+  "project": "azure-mgmt-redhatopenshift",
+  "num_downloads": "573129"
+}, {
+  "project": "tensorboard-data-server",
+  "num_downloads": "572656"
+}, {
+  "project": "azure-mgmt-recoveryservices",
+  "num_downloads": "567511"
+}, {
+  "project": "pytest-metadata",
+  "num_downloads": "566853"
+}, {
+  "project": "pydata-google-auth",
+  "num_downloads": "566595"
+}, {
+  "project": "sphinxcontrib-htmlhelp",
+  "num_downloads": "565630"
+}, {
+  "project": "flask-wtf",
+  "num_downloads": "563207"
+}, {
+  "project": "tblib",
+  "num_downloads": "561622"
+}, {
+  "project": "pathos",
+  "num_downloads": "561586"
+}, {
+  "project": "alabaster",
+  "num_downloads": "561367"
+}, {
+  "project": "nvidia-nvjitlink-cu12",
+  "num_downloads": "560440"
+}, {
+  "project": "sphinxcontrib-qthelp",
+  "num_downloads": "560344"
+}, {
+  "project": "imagesize",
+  "num_downloads": "556966"
+}, {
+  "project": "pox",
+  "num_downloads": "554523"
+}, {
+  "project": "sphinxcontrib-serializinghtml",
+  "num_downloads": "553760"
+}, {
+  "project": "ppft",
+  "num_downloads": "552424"
+}, {
+  "project": "azure-mgmt-apimanagement",
+  "num_downloads": "551418"
+}, {
+  "project": "ninja",
+  "num_downloads": "551366"
+}, {
+  "project": "azure-keyvault-certificates",
+  "num_downloads": "550080"
+}, {
+  "project": "amqp",
+  "num_downloads": "549005"
+}, {
+  "project": "pypdf2",
+  "num_downloads": "548911"
+}, {
+  "project": "deepdiff",
+  "num_downloads": "548740"
+}, {
+  "project": "jupyter-lsp",
+  "num_downloads": "547336"
+}, {
+  "project": "azure-cli-telemetry",
+  "num_downloads": "547209"
+}, {
+  "project": "rich-argparse",
+  "num_downloads": "544639"
+}, {
+  "project": "flask-appbuilder",
+  "num_downloads": "544468"
+}, {
+  "project": "fabric",
+  "num_downloads": "543595"
+}, {
+  "project": "azure-mgmt-appconfiguration",
+  "num_downloads": "542906"
+}, {
+  "project": "hypothesis",
+  "num_downloads": "542296"
+}, {
+  "project": "ijson",
+  "num_downloads": "542199"
+}, {
+  "project": "patsy",
+  "num_downloads": "541134"
+}, {
+  "project": "azure-mgmt-eventgrid",
+  "num_downloads": "539790"
+}, {
+  "project": "pathlib2",
+  "num_downloads": "538943"
+}, {
+  "project": "gremlinpython",
+  "num_downloads": "538701"
+}, {
+  "project": "azure-mgmt-synapse",
+  "num_downloads": "538591"
+}, {
+  "project": "azure-mgmt-marketplaceordering",
+  "num_downloads": "534160"
+}, {
+  "project": "azure-mgmt-datalake-store",
+  "num_downloads": "533627"
+}, {
+  "project": "jsondiff",
+  "num_downloads": "533553"
+}, {
+  "project": "sphinxcontrib-applehelp",
+  "num_downloads": "533477"
+}, {
+  "project": "databricks-cli",
+  "num_downloads": "531182"
+}, {
+  "project": "kombu",
+  "num_downloads": "531016"
+}, {
+  "project": "ecdsa",
+  "num_downloads": "530191"
+}, {
+  "project": "azure-storage-queue",
+  "num_downloads": "530108"
+}, {
+  "project": "sphinxcontrib-devhelp",
+  "num_downloads": "530101"
+}, {
+  "project": "ddtrace",
+  "num_downloads": "530047"
+}, {
+  "project": "apispec",
+  "num_downloads": "529673"
+}, {
+  "project": "azure-mgmt-signalr",
+  "num_downloads": "529258"
+}, {
+  "project": "pymssql",
+  "num_downloads": "528790"
+}, {
+  "project": "flask-cors",
+  "num_downloads": "528663"
+}, {
+  "project": "keras",
+  "num_downloads": "528346"
+}, {
+  "project": "kafka-python",
+  "num_downloads": "527067"
+}, {
+  "project": "azure-mgmt-cognitiveservices",
+  "num_downloads": "523933"
+}, {
+  "project": "time-machine",
+  "num_downloads": "523228"
+}, {
+  "project": "docker-pycreds",
+  "num_downloads": "517918"
+}, {
+  "project": "nvidia-nccl-cu12",
+  "num_downloads": "516337"
+}, {
+  "project": "azure-keyvault-administration",
+  "num_downloads": "514481"
+}, {
+  "project": "azure-mgmt-kusto",
+  "num_downloads": "514300"
+}, {
+  "project": "google-re2",
+  "num_downloads": "513521"
+}, {
+  "project": "connexion",
+  "num_downloads": "512367"
+}, {
+  "project": "flask-sqlalchemy",
+  "num_downloads": "511739"
+}, {
+  "project": "types-setuptools",
+  "num_downloads": "511700"
+}, {
+  "project": "grpcio-health-checking",
+  "num_downloads": "510801"
+}, {
+  "project": "moto",
+  "num_downloads": "508739"
+}, {
+  "project": "sphinxcontrib-jsmath",
+  "num_downloads": "508660"
+}, {
+  "project": "zope-event",
+  "num_downloads": "508492"
+}, {
+  "project": "hpack",
+  "num_downloads": "506762"
+}, {
+  "project": "h2",
+  "num_downloads": "505623"
+}, {
+  "project": "smdebug-rulesconfig",
+  "num_downloads": "505435"
+}, {
+  "project": "pipenv",
+  "num_downloads": "504823"
+}, {
+  "project": "aws-sam-translator",
+  "num_downloads": "503616"
+}, {
+  "project": "astunparse",
+  "num_downloads": "502949"
+}, {
+  "project": "google-cloud-monitoring",
+  "num_downloads": "501492"
+}, {
+  "project": "hyperframe",
+  "num_downloads": "500053"
+}, {
+  "project": "vine",
+  "num_downloads": "499748"
+}, {
+  "project": "linkify-it-py",
+  "num_downloads": "499607"
+}, {
+  "project": "datasets",
+  "num_downloads": "498107"
+}, {
+  "project": "humanize",
+  "num_downloads": "496746"
+}, {
+  "project": "azure-mgmt-media",
+  "num_downloads": "496001"
+}, {
+  "project": "billiard",
+  "num_downloads": "494973"
+}, {
+  "project": "watchtower",
+  "num_downloads": "494823"
+}, {
+  "project": "google-cloud-dlp",
+  "num_downloads": "493372"
+}, {
+  "project": "azure-mgmt-billing",
+  "num_downloads": "493291"
+}, {
+  "project": "azure-mgmt-policyinsights",
+  "num_downloads": "493068"
+}, {
+  "project": "azure-mgmt-search",
+  "num_downloads": "492849"
+}, {
+  "project": "docopt",
+  "num_downloads": "491874"
+}, {
+  "project": "dbt-core",
+  "num_downloads": "491038"
+}, {
+  "project": "mashumaro",
+  "num_downloads": "490297"
+}, {
+  "project": "google-cloud-dataproc",
+  "num_downloads": "488699"
+}, {
+  "project": "graphviz",
+  "num_downloads": "485650"
+}, {
+  "project": "libcst",
+  "num_downloads": "482585"
+}, {
+  "project": "pytest-html",
+  "num_downloads": "481816"
+}, {
+  "project": "python-daemon",
+  "num_downloads": "479789"
+}, {
+  "project": "aws-requests-auth",
+  "num_downloads": "479601"
+}, {
+  "project": "scp",
+  "num_downloads": "476407"
+}, {
+  "project": "types-protobuf",
+  "num_downloads": "476176"
+}, {
+  "project": "opencensus-context",
+  "num_downloads": "475680"
+}, {
+  "project": "simple-salesforce",
+  "num_downloads": "474718"
+}, {
+  "project": "pydantic-settings",
+  "num_downloads": "474235"
+}, {
+  "project": "querystring-parser",
+  "num_downloads": "473990"
+}, {
+  "project": "google-cloud-kms",
+  "num_downloads": "473459"
+}, {
+  "project": "google-cloud-vision",
+  "num_downloads": "473137"
+}, {
+  "project": "makefun",
+  "num_downloads": "472477"
+}, {
+  "project": "opentelemetry-util-http",
+  "num_downloads": "471952"
+}, {
+  "project": "authlib",
+  "num_downloads": "471817"
+}, {
+  "project": "unidecode",
+  "num_downloads": "471684"
+}, {
+  "project": "netaddr",
+  "num_downloads": "470394"
+}, {
+  "project": "looker-sdk",
+  "num_downloads": "470234"
+}, {
+  "project": "azure-mgmt-servicefabric",
+  "num_downloads": "468987"
+}, {
+  "project": "azure-mgmt-advisor",
+  "num_downloads": "467335"
+}, {
+  "project": "opt-einsum",
+  "num_downloads": "467073"
+}, {
+  "project": "azure-appconfiguration",
+  "num_downloads": "465848"
+}, {
+  "project": "azure-mgmt-netapp",
+  "num_downloads": "465758"
+}, {
+  "project": "pytest-rerunfailures",
+  "num_downloads": "464879"
+}, {
+  "project": "delta-spark",
+  "num_downloads": "464769"
+}, {
+  "project": "azure-mgmt-nspkg",
+  "num_downloads": "464420"
+}, {
+  "project": "google-cloud-spanner",
+  "num_downloads": "463314"
+}, {
+  "project": "google-cloud-container",
+  "num_downloads": "462994"
+}, {
+  "project": "sqlalchemy-utils",
+  "num_downloads": "459625"
+}, {
+  "project": "backports-zoneinfo",
+  "num_downloads": "459428"
+}, {
+  "project": "azure-mgmt-managementgroups",
+  "num_downloads": "458817"
+}, {
+  "project": "graphene",
+  "num_downloads": "458771"
+}, {
+  "project": "google-cloud-firestore",
+  "num_downloads": "455710"
+}, {
+  "project": "langchain-community",
+  "num_downloads": "454860"
+}, {
+  "project": "bitarray",
+  "num_downloads": "454237"
+}, {
+  "project": "azure-mgmt-botservice",
+  "num_downloads": "453567"
+}, {
+  "project": "azure-mgmt-iotcentral",
+  "num_downloads": "452354"
+}, {
+  "project": "google-cloud-tasks",
+  "num_downloads": "452262"
+}, {
+  "project": "yapf",
+  "num_downloads": "450401"
+}, {
+  "project": "mypy-boto3-s3",
+  "num_downloads": "449489"
+}, {
+  "project": "nvidia-cudnn-cu12",
+  "num_downloads": "448708"
+}, {
+  "project": "azure-mgmt-privatedns",
+  "num_downloads": "448572"
+}, {
+  "project": "azure-mgmt-iothubprovisioningservices",
+  "num_downloads": "448130"
+}, {
+  "project": "azure-mgmt-maps",
+  "num_downloads": "447951"
+}, {
+  "project": "azure-mgmt-datamigration",
+  "num_downloads": "447184"
+}, {
+  "project": "azure-mgmt-batchai",
+  "num_downloads": "446421"
+}, {
+  "project": "dask",
+  "num_downloads": "446351"
+}, {
+  "project": "wandb",
+  "num_downloads": "445705"
+}, {
+  "project": "eth-account",
+  "num_downloads": "444484"
+}, {
+  "project": "graphql-relay",
+  "num_downloads": "442075"
+}, {
+  "project": "scikit-image",
+  "num_downloads": "441595"
+}, {
+  "project": "cachelib",
+  "num_downloads": "441400"
+}, {
+  "project": "google-cloud-datacatalog",
+  "num_downloads": "441354"
+}, {
+  "project": "langsmith",
+  "num_downloads": "440886"
+}, {
+  "project": "google-cloud-bigquery-datatransfer",
+  "num_downloads": "439603"
+}, {
+  "project": "boto3-stubs",
+  "num_downloads": "438434"
+}, {
+  "project": "marshmallow-oneofschema",
+  "num_downloads": "437642"
+}, {
+  "project": "google-cloud-bigtable",
+  "num_downloads": "437054"
+}, {
+  "project": "flask-login",
+  "num_downloads": "436316"
+}, {
+  "project": "azure-synapse-spark",
+  "num_downloads": "429492"
+}, {
+  "project": "flask-session",
+  "num_downloads": "428448"
+}, {
+  "project": "javaproperties",
+  "num_downloads": "428251"
+}, {
+  "project": "azure-mgmt-imagebuilder",
+  "num_downloads": "428105"
+}, {
+  "project": "resolvelib",
+  "num_downloads": "427251"
+}, {
+  "project": "azure-mgmt-servicefabricmanagedclusters",
+  "num_downloads": "426481"
+}, {
+  "project": "python-jose",
+  "num_downloads": "424971"
+}, {
+  "project": "types-pytz",
+  "num_downloads": "424483"
+}, {
+  "project": "click-repl",
+  "num_downloads": "422019"
+}, {
+  "project": "yamllint",
+  "num_downloads": "421354"
+}, {
+  "project": "djangorestframework",
+  "num_downloads": "419539"
+}, {
+  "project": "mypy-boto3-rds",
+  "num_downloads": "418935"
+}, {
+  "project": "sh",
+  "num_downloads": "418286"
+}, {
+  "project": "jira",
+  "num_downloads": "417857"
+}, {
+  "project": "apache-airflow-providers-snowflake",
+  "num_downloads": "417522"
+}, {
+  "project": "nvidia-cublas-cu12",
+  "num_downloads": "417062"
+}, {
+  "project": "tensorflow-estimator",
+  "num_downloads": "416925"
+}, {
+  "project": "click-didyoumean",
+  "num_downloads": "416360"
+}, {
+  "project": "google-cloud-build",
+  "num_downloads": "415967"
+}, {
+  "project": "fasteners",
+  "num_downloads": "415806"
+}, {
+  "project": "cssselect",
+  "num_downloads": "413948"
+}, {
+  "project": "types-urllib3",
+  "num_downloads": "413276"
+}, {
+  "project": "cmake",
+  "num_downloads": "412774"
+}, {
+  "project": "universal-pathlib",
+  "num_downloads": "411913"
+}, {
+  "project": "readme-renderer",
+  "num_downloads": "411855"
+}, {
+  "project": "azure-mgmt-servicelinker",
+  "num_downloads": "410602"
+}, {
+  "project": "pybind11",
+  "num_downloads": "410050"
+}, {
+  "project": "pydeequ",
+  "num_downloads": "410021"
+}, {
+  "project": "google-ads",
+  "num_downloads": "410002"
+}, {
+  "project": "wtforms",
+  "num_downloads": "409683"
+}, {
+  "project": "nh3",
+  "num_downloads": "409584"
+}, {
+  "project": "azure-synapse-managedprivateendpoints",
+  "num_downloads": "407697"
+}, {
+  "project": "azure-mgmt-managedservices",
+  "num_downloads": "407599"
+}, {
+  "project": "dateparser",
+  "num_downloads": "406820"
+}, {
+  "project": "botocore-stubs",
+  "num_downloads": "405926"
+}, {
+  "project": "inject",
+  "num_downloads": "405794"
+}, {
+  "project": "omegaconf",
+  "num_downloads": "405427"
+}, {
+  "project": "nvidia-cuda-nvrtc-cu12",
+  "num_downloads": "404387"
+}, {
+  "project": "azure-synapse-accesscontrol",
+  "num_downloads": "404135"
+}, {
+  "project": "google-cloud-language",
+  "num_downloads": "403601"
+}, {
+  "project": "nvidia-cuda-runtime-cu12",
+  "num_downloads": "402762"
+}, {
+  "project": "azure-mgmt-sqlvirtualmachine",
+  "num_downloads": "400942"
+}, {
+  "project": "tensorflow-io-gcs-filesystem",
+  "num_downloads": "400316"
+}, {
+  "project": "nvidia-cuda-cupti-cu12",
+  "num_downloads": "399934"
+}, {
+  "project": "google-cloud-videointelligence",
+  "num_downloads": "399249"
+}, {
+  "project": "libclang",
+  "num_downloads": "398425"
+}, {
+  "project": "nvidia-cufft-cu12",
+  "num_downloads": "398396"
+}, {
+  "project": "nvidia-cusparse-cu12",
+  "num_downloads": "398358"
+}, {
+  "project": "azure-mgmt-extendedlocation",
+  "num_downloads": "397742"
+}, {
+  "project": "google-cloud-redis",
+  "num_downloads": "397651"
+}, {
+  "project": "azure-mgmt-datalake-nspkg",
+  "num_downloads": "397495"
+}, {
+  "project": "google-cloud-dataplex",
+  "num_downloads": "396771"
+}, {
+  "project": "google-cloud-automl",
+  "num_downloads": "396520"
+}, {
+  "project": "google-cloud-workflows",
+  "num_downloads": "396062"
+}, {
+  "project": "nvidia-curand-cu12",
+  "num_downloads": "395771"
+}, {
+  "project": "gspread",
+  "num_downloads": "395615"
+}, {
+  "project": "azure-storage-file-share",
+  "num_downloads": "395584"
+}, {
+  "project": "reportlab",
+  "num_downloads": "395235"
+}, {
+  "project": "typing",
+  "num_downloads": "394250"
+}, {
+  "project": "pyproject-api",
+  "num_downloads": "393508"
+}, {
+  "project": "pika",
+  "num_downloads": "391803"
+}, {
+  "project": "nvidia-cusolver-cu12",
+  "num_downloads": "390712"
+}, {
+  "project": "twine",
+  "num_downloads": "389401"
+}, {
+  "project": "nvidia-nvtx-cu12",
+  "num_downloads": "389130"
+}, {
+  "project": "parse",
+  "num_downloads": "389090"
+}, {
+  "project": "datadog-api-client",
+  "num_downloads": "388741"
+}, {
+  "project": "google-cloud-os-login",
+  "num_downloads": "387893"
+}, {
+  "project": "python-magic",
+  "num_downloads": "386662"
+}, {
+  "project": "userpath",
+  "num_downloads": "385016"
+}, {
+  "project": "marshmallow-sqlalchemy",
+  "num_downloads": "384709"
+}, {
+  "project": "nose",
+  "num_downloads": "384546"
+}, {
+  "project": "diskcache",
+  "num_downloads": "382287"
+}, {
+  "project": "imbalanced-learn",
+  "num_downloads": "382204"
+}, {
+  "project": "bytecode",
+  "num_downloads": "382029"
+}, {
+  "project": "cfn-lint",
+  "num_downloads": "381727"
+}, {
+  "project": "opentelemetry-instrumentation-fastapi",
+  "num_downloads": "381452"
+}, {
+  "project": "opentelemetry-instrumentation-asgi",
+  "num_downloads": "380112"
+}, {
+  "project": "apache-airflow-providers-google",
+  "num_downloads": "379399"
+}, {
+  "project": "pyathena",
+  "num_downloads": "379081"
+}, {
+  "project": "asyncpg",
+  "num_downloads": "378118"
+}, {
+  "project": "pycountry",
+  "num_downloads": "378078"
+}, {
+  "project": "google-cloud-translate",
+  "num_downloads": "377611"
+}, {
+  "project": "fire",
+  "num_downloads": "376768"
+}, {
+  "project": "kfp",
+  "num_downloads": "376752"
+}, {
+  "project": "pytest-timeout",
+  "num_downloads": "376592"
+}, {
+  "project": "agate",
+  "num_downloads": "376566"
+}, {
+  "project": "google-cloud-memcache",
+  "num_downloads": "375288"
+}, {
+  "project": "apache-airflow-providers-databricks",
+  "num_downloads": "375118"
+}, {
+  "project": "pytimeparse",
+  "num_downloads": "374891"
+}, {
+  "project": "azure-loganalytics",
+  "num_downloads": "374482"
+}, {
+  "project": "azure-kusto-data",
+  "num_downloads": "373758"
+}, {
+  "project": "pysftp",
+  "num_downloads": "372403"
+}, {
+  "project": "mergedeep",
+  "num_downloads": "371261"
+}, {
+  "project": "types-awscrt",
+  "num_downloads": "371225"
+}, {
+  "project": "google-cloud-compute",
+  "num_downloads": "368835"
+}, {
+  "project": "flask-jwt-extended",
+  "num_downloads": "368237"
+}, {
+  "project": "gcloud-aio-auth",
+  "num_downloads": "368019"
+}, {
+  "project": "lightgbm",
+  "num_downloads": "367989"
+}, {
+  "project": "uc-micro-py",
+  "num_downloads": "367907"
+}, {
+  "project": "envier",
+  "num_downloads": "367448"
+}, {
+  "project": "pep517",
+  "num_downloads": "365827"
+}, {
+  "project": "validators",
+  "num_downloads": "365218"
+}, {
+  "project": "apache-airflow-providers-ssh",
+  "num_downloads": "364092"
+}, {
+  "project": "google-cloud-dataproc-metastore",
+  "num_downloads": "364069"
+}, {
+  "project": "crcmod",
+  "num_downloads": "364021"
+}, {
+  "project": "google-cloud-speech",
+  "num_downloads": "360719"
+}, {
+  "project": "flask-limiter",
+  "num_downloads": "358816"
+}, {
+  "project": "google-cloud-orchestration-airflow",
+  "num_downloads": "358430"
+}, {
+  "project": "datetime",
+  "num_downloads": "357384"
+}, {
+  "project": "sendgrid",
+  "num_downloads": "357350"
+}, {
+  "project": "ipaddress",
+  "num_downloads": "356819"
+}, {
+  "project": "opentelemetry-instrumentation-requests",
+  "num_downloads": "355008"
+}, {
+  "project": "apache-airflow-providers-http",
+  "num_downloads": "354223"
+}, {
+  "project": "parsedatetime",
+  "num_downloads": "354143"
+}, {
+  "project": "uamqp",
+  "num_downloads": "353625"
+}, {
+  "project": "pipx",
+  "num_downloads": "352249"
+}, {
+  "project": "gcloud-aio-storage",
+  "num_downloads": "352117"
+}, {
+  "project": "stevedore",
+  "num_downloads": "352039"
+}, {
+  "project": "spacy",
+  "num_downloads": "351008"
+}, {
+  "project": "editables",
+  "num_downloads": "350740"
+}, {
+  "project": "ddsketch",
+  "num_downloads": "348041"
+}, {
+  "project": "google-cloud-texttospeech",
+  "num_downloads": "347920"
+}, {
+  "project": "python-http-client",
+  "num_downloads": "347418"
+}, {
+  "project": "types-s3transfer",
+  "num_downloads": "346262"
+}, {
+  "project": "commonmark",
+  "num_downloads": "344983"
+}, {
+  "project": "sqlalchemy-bigquery",
+  "num_downloads": "344551"
+}, {
+  "project": "google-cloud-dataform",
+  "num_downloads": "342028"
+}, {
+  "project": "requests-mock",
+  "num_downloads": "341931"
+}, {
+  "project": "dacite",
+  "num_downloads": "341888"
+}, {
+  "project": "mysqlclient",
+  "num_downloads": "341568"
+}, {
+  "project": "pywavelets",
+  "num_downloads": "341190"
+}, {
+  "project": "configupdater",
+  "num_downloads": "340812"
+}, {
+  "project": "ml-dtypes",
+  "num_downloads": "340104"
+}, {
+  "project": "pyproj",
+  "num_downloads": "334904"
+}, {
+  "project": "gsutil",
+  "num_downloads": "334646"
+}, {
+  "project": "python-gnupg",
+  "num_downloads": "333730"
+}, {
+  "project": "nvidia-cublas-cu11",
+  "num_downloads": "333692"
+}, {
+  "project": "awscrt",
+  "num_downloads": "332391"
+}, {
+  "project": "pyarrow-hotfix",
+  "num_downloads": "331290"
+}, {
+  "project": "pyotp",
+  "num_downloads": "331146"
+}, {
+  "project": "cymem",
+  "num_downloads": "329603"
+}, {
+  "project": "apache-airflow-providers-mysql",
+  "num_downloads": "328400"
+}, {
+  "project": "py-cpuinfo",
+  "num_downloads": "327976"
+}, {
+  "project": "psycopg",
+  "num_downloads": "327545"
+}, {
+  "project": "sqlalchemy-jsonfield",
+  "num_downloads": "326866"
+}, {
+  "project": "azure-devops",
+  "num_downloads": "325482"
+}, {
+  "project": "azure-ai-ml",
+  "num_downloads": "325440"
+}, {
+  "project": "boto",
+  "num_downloads": "324825"
+}, {
+  "project": "blis",
+  "num_downloads": "323255"
+}, {
+  "project": "apscheduler",
+  "num_downloads": "322207"
+}, {
+  "project": "ndg-httpsclient",
+  "num_downloads": "321374"
+}, {
+  "project": "catalogue",
+  "num_downloads": "320910"
+}, {
+  "project": "maxminddb",
+  "num_downloads": "320748"
+}, {
+  "project": "wasabi",
+  "num_downloads": "320427"
+}, {
+  "project": "murmurhash",
+  "num_downloads": "319251"
+}, {
+  "project": "azure-mgmt-datalake-analytics",
+  "num_downloads": "318826"
+}, {
+  "project": "phonenumbers",
+  "num_downloads": "318073"
+}, {
+  "project": "langchain-text-splitters",
+  "num_downloads": "317587"
+}, {
+  "project": "clickclick",
+  "num_downloads": "316999"
+}, {
+  "project": "srsly",
+  "num_downloads": "316691"
+}, {
+  "project": "gcloud-aio-bigquery",
+  "num_downloads": "316414"
+}, {
+  "project": "preshed",
+  "num_downloads": "315897"
+}, {
+  "project": "hyperlink",
+  "num_downloads": "315469"
+}, {
+  "project": "grpcio-gcp",
+  "num_downloads": "311428"
+}, {
+  "project": "onnxruntime",
+  "num_downloads": "311381"
+}, {
+  "project": "levenshtein",
+  "num_downloads": "310900"
+}, {
+  "project": "thinc",
+  "num_downloads": "310729"
+}, {
+  "project": "azureml-dataprep-rslex",
+  "num_downloads": "309244"
+}, {
+  "project": "elastic-transport",
+  "num_downloads": "308712"
+}, {
+  "project": "jpype1",
+  "num_downloads": "308642"
+}, {
+  "project": "enum34",
+  "num_downloads": "308581"
+}, {
+  "project": "holidays",
+  "num_downloads": "308562"
+}, {
+  "project": "funcsigs",
+  "num_downloads": "308378"
+}, {
+  "project": "openapi-spec-validator",
+  "num_downloads": "308106"
+}, {
+  "project": "polars",
+  "num_downloads": "307494"
+}, {
+  "project": "mmh3",
+  "num_downloads": "306782"
+}, {
+  "project": "azure-mgmt-consumption",
+  "num_downloads": "305207"
+}, {
+  "project": "azure-mgmt-relay",
+  "num_downloads": "304711"
+}, {
+  "project": "lark",
+  "num_downloads": "303097"
+}, {
+  "project": "flit-core",
+  "num_downloads": "302603"
+}, {
+  "project": "eth-rlp",
+  "num_downloads": "300692"
+}, {
+  "project": "leather",
+  "num_downloads": "300420"
+}, {
+  "project": "langcodes",
+  "num_downloads": "299622"
+}, {
+  "project": "texttable",
+  "num_downloads": "299605"
+}, {
+  "project": "limits",
+  "num_downloads": "298986"
+}, {
+  "project": "dbt-extractor",
+  "num_downloads": "298945"
+}, {
+  "project": "apache-beam",
+  "num_downloads": "297079"
+}, {
+  "project": "typed-ast",
+  "num_downloads": "296352"
+}, {
+  "project": "unicodecsv",
+  "num_downloads": "293292"
+}, {
+  "project": "nvidia-cudnn-cu11",
+  "num_downloads": "293004"
+}, {
+  "project": "cron-descriptor",
+  "num_downloads": "292392"
+}, {
+  "project": "pypdf",
+  "num_downloads": "292163"
+}, {
+  "project": "nvidia-cuda-runtime-cu11",
+  "num_downloads": "291958"
+}, {
+  "project": "dpath",
+  "num_downloads": "291892"
+}, {
+  "project": "spacy-legacy",
+  "num_downloads": "290329"
+}, {
+  "project": "avro",
+  "num_downloads": "289749"
+}, {
+  "project": "pyserial",
+  "num_downloads": "289299"
+}, {
+  "project": "azure-mgmt-reservations",
+  "num_downloads": "288679"
+}, {
+  "project": "python-docx",
+  "num_downloads": "288281"
+}, {
+  "project": "spacy-loggers",
+  "num_downloads": "286711"
+}, {
+  "project": "python-gitlab",
+  "num_downloads": "286204"
+}, {
+  "project": "tifffile",
+  "num_downloads": "286122"
+}, {
+  "project": "ipython-genutils",
+  "num_downloads": "285887"
+}, {
+  "project": "gradio",
+  "num_downloads": "285802"
+}, {
+  "project": "cramjam",
+  "num_downloads": "285789"
+}, {
+  "project": "psycopg-binary",
+  "num_downloads": "283064"
+}, {
+  "project": "confection",
+  "num_downloads": "282301"
+}, {
+  "project": "urllib3-secure-extra",
+  "num_downloads": "282268"
+}, {
+  "project": "inflect",
+  "num_downloads": "281143"
+}, {
+  "project": "nvidia-cuda-nvrtc-cu11",
+  "num_downloads": "279956"
+}, {
+  "project": "azure-mgmt-datafactory",
+  "num_downloads": "278441"
+}, {
+  "project": "opentelemetry-instrumentation-wsgi",
+  "num_downloads": "277878"
+}, {
+  "project": "tensorflow-serving-api",
+  "num_downloads": "277713"
+}, {
+  "project": "pydot",
+  "num_downloads": "277605"
+}, {
+  "project": "fuzzywuzzy",
+  "num_downloads": "277224"
+}, {
+  "project": "pyroaring",
+  "num_downloads": "275459"
+}, {
+  "project": "accelerate",
+  "num_downloads": "274372"
+}, {
+  "project": "aws-xray-sdk",
+  "num_downloads": "273187"
+}, {
+  "project": "opentelemetry-instrumentation-flask",
+  "num_downloads": "272048"
+}, {
+  "project": "django-cors-headers",
+  "num_downloads": "271944"
+}, {
+  "project": "iso8601",
+  "num_downloads": "271705"
+}, {
+  "project": "mlflow-skinny",
+  "num_downloads": "269609"
+}, {
+  "project": "pycrypto",
+  "num_downloads": "268447"
+}, {
+  "project": "opencv-python-headless",
+  "num_downloads": "268389"
+}, {
+  "project": "pyspnego",
+  "num_downloads": "268288"
+}, {
+  "project": "olefile",
+  "num_downloads": "265708"
+}, {
+  "project": "opentelemetry-instrumentation-urllib3",
+  "num_downloads": "264858"
+}, {
+  "project": "qtconsole",
+  "num_downloads": "264736"
+}, {
+  "project": "junit-xml",
+  "num_downloads": "263381"
+}, {
+  "project": "sphinx-rtd-theme",
+  "num_downloads": "262401"
+}, {
+  "project": "prison",
+  "num_downloads": "260456"
+}, {
+  "project": "geoip2",
+  "num_downloads": "259976"
+}, {
+  "project": "flask-babel",
+  "num_downloads": "259199"
+}, {
+  "project": "partd",
+  "num_downloads": "259161"
+}, {
+  "project": "jaydebeapi",
+  "num_downloads": "258798"
+}, {
+  "project": "strenum",
+  "num_downloads": "258207"
+}, {
+  "project": "incremental",
+  "num_downloads": "257006"
+}, {
+  "project": "opentelemetry-instrumentation-urllib",
+  "num_downloads": "256975"
+}, {
+  "project": "lazy-loader",
+  "num_downloads": "256344"
+}, {
+  "project": "junitparser",
+  "num_downloads": "256208"
+}, {
+  "project": "openapi-schema-validator",
+  "num_downloads": "255736"
+}, {
+  "project": "shap",
+  "num_downloads": "254856"
+}, {
+  "project": "starkbank-ecdsa",
+  "num_downloads": "254446"
+}, {
+  "project": "office365-rest-python-client",
+  "num_downloads": "254197"
+}, {
+  "project": "opentelemetry-instrumentation-dbapi",
+  "num_downloads": "254083"
+}, {
+  "project": "azure-mgmt-appcontainers",
+  "num_downloads": "253478"
+}, {
+  "project": "configargparse",
+  "num_downloads": "253240"
+}, {
+  "project": "astor",
+  "num_downloads": "252603"
+}, {
+  "project": "python-levenshtein",
+  "num_downloads": "251936"
+}, {
+  "project": "locket",
+  "num_downloads": "251409"
+}, {
+  "project": "setuptools-git-versioning",
+  "num_downloads": "250672"
+}, {
+  "project": "qtpy",
+  "num_downloads": "250582"
+}, {
+  "project": "apache-airflow-providers-ftp",
+  "num_downloads": "250255"
+}, {
+  "project": "bracex",
+  "num_downloads": "250040"
+}, {
+  "project": "einops",
+  "num_downloads": "250012"
+}, {
+  "project": "pytest-forked",
+  "num_downloads": "249719"
+}, {
+  "project": "mysql-connector",
+  "num_downloads": "248399"
+}, {
+  "project": "gql",
+  "num_downloads": "248382"
+}, {
+  "project": "mypy-boto3-appflow",
+  "num_downloads": "247297"
+}, {
+  "project": "apache-airflow-providers-fab",
+  "num_downloads": "246588"
+}, {
+  "project": "python-bidi",
+  "num_downloads": "246406"
+}, {
+  "project": "cligj",
+  "num_downloads": "245306"
+}, {
+  "project": "ratelimit",
+  "num_downloads": "244895"
+}, {
+  "project": "cloudpathlib",
+  "num_downloads": "244420"
+}, {
+  "project": "passlib",
+  "num_downloads": "243982"
+}, {
+  "project": "azure-mgmt-deploymentmanager",
+  "num_downloads": "243862"
+}, {
+  "project": "futures",
+  "num_downloads": "243768"
+}, {
+  "project": "fastparquet",
+  "num_downloads": "243722"
+}, {
+  "project": "pydash",
+  "num_downloads": "242803"
+}, {
+  "project": "slicer",
+  "num_downloads": "242592"
+}, {
+  "project": "dicttoxml",
+  "num_downloads": "241007"
+}, {
+  "project": "types-redis",
+  "num_downloads": "240412"
+}, {
+  "project": "geopandas",
+  "num_downloads": "239089"
+}, {
+  "project": "apache-airflow-providers-sqlite",
+  "num_downloads": "239065"
+}, {
+  "project": "google-cloud-dataflow-client",
+  "num_downloads": "238806"
+}, {
+  "project": "autopep8",
+  "num_downloads": "238574"
+}, {
+  "project": "parse-type",
+  "num_downloads": "238335"
+}, {
+  "project": "onnx",
+  "num_downloads": "237584"
+}, {
+  "project": "methodtools",
+  "num_downloads": "237523"
+}, {
+  "project": "marisa-trie",
+  "num_downloads": "237493"
+}, {
+  "project": "jupyter",
+  "num_downloads": "236889"
+}, {
+  "project": "xarray",
+  "num_downloads": "235738"
+}, {
+  "project": "waitress",
+  "num_downloads": "234993"
+}, {
+  "project": "mypy-protobuf",
+  "num_downloads": "234233"
+}, {
+  "project": "dbt-semantic-interfaces",
+  "num_downloads": "234180"
+}, {
+  "project": "pydocstyle",
+  "num_downloads": "233646"
+}, {
+  "project": "twilio",
+  "num_downloads": "233108"
+}, {
+  "project": "mkdocs-material",
+  "num_downloads": "233098"
+}, {
+  "project": "opentelemetry-instrumentation-django",
+  "num_downloads": "232624"
+}, {
+  "project": "logbook",
+  "num_downloads": "231481"
+}, {
+  "project": "pyee",
+  "num_downloads": "230909"
+}, {
+  "project": "duckdb",
+  "num_downloads": "230826"
+}, {
+  "project": "azureml-dataprep",
+  "num_downloads": "230371"
+}, {
+  "project": "apache-airflow-providers-amazon",
+  "num_downloads": "229845"
+}, {
+  "project": "jupyter-console",
+  "num_downloads": "229537"
+}, {
+  "project": "pytest-split",
+  "num_downloads": "229488"
+}, {
+  "project": "streamlit",
+  "num_downloads": "227553"
+}, {
+  "project": "onnxruntime-gpu",
+  "num_downloads": "227319"
+}, {
+  "project": "twisted",
+  "num_downloads": "227027"
+}, {
+  "project": "pytorch-lightning",
+  "num_downloads": "226818"
+}, {
+  "project": "language-data",
+  "num_downloads": "226482"
+}, {
+  "project": "opentelemetry-instrumentation-psycopg2",
+  "num_downloads": "226425"
+}, {
+  "project": "azure-monitor-opentelemetry-exporter",
+  "num_downloads": "224727"
+}, {
+  "project": "pycares",
+  "num_downloads": "224478"
+}, {
+  "project": "wirerope",
+  "num_downloads": "223839"
+}, {
+  "project": "django-filter",
+  "num_downloads": "223667"
+}, {
+  "project": "marshmallow-enum",
+  "num_downloads": "223593"
+}, {
+  "project": "avro-python3",
+  "num_downloads": "223326"
+}, {
+  "project": "timm",
+  "num_downloads": "223240"
+}, {
+  "project": "strictyaml",
+  "num_downloads": "221754"
+}, {
+  "project": "yappi",
+  "num_downloads": "221660"
+}, {
+  "project": "factory-boy",
+  "num_downloads": "221550"
+}, {
+  "project": "xhtml2pdf",
+  "num_downloads": "221253"
+}, {
+  "project": "ua-parser",
+  "num_downloads": "220701"
+}, {
+  "project": "pytz-deprecation-shim",
+  "num_downloads": "219900"
+}, {
+  "project": "pymdown-extensions",
+  "num_downloads": "218981"
+}, {
+  "project": "torchaudio",
+  "num_downloads": "217425"
+}, {
+  "project": "pdfminer-six",
+  "num_downloads": "217370"
+}, {
+  "project": "natsort",
+  "num_downloads": "217022"
+}, {
+  "project": "elasticsearch-dsl",
+  "num_downloads": "216963"
+}, {
+  "project": "pytest-randomly",
+  "num_downloads": "215722"
+}, {
+  "project": "stripe",
+  "num_downloads": "215499"
+}, {
+  "project": "azure-kusto-ingest",
+  "num_downloads": "215469"
+}, {
+  "project": "ftfy",
+  "num_downloads": "215079"
+}, {
+  "project": "geographiclib",
+  "num_downloads": "214995"
+}, {
+  "project": "bottle",
+  "num_downloads": "214947"
+}, {
+  "project": "tableauserverclient",
+  "num_downloads": "214389"
+}, {
+  "project": "geopy",
+  "num_downloads": "213985"
+}, {
+  "project": "pyhcl",
+  "num_downloads": "213940"
+}, {
+  "project": "apache-airflow-providers-imap",
+  "num_downloads": "213898"
+}, {
+  "project": "aliyun-python-sdk-core",
+  "num_downloads": "213620"
+}, {
+  "project": "soundfile",
+  "num_downloads": "213063"
+}, {
+  "project": "google-cloud-batch",
+  "num_downloads": "212927"
+}, {
+  "project": "aws-psycopg2",
+  "num_downloads": "212731"
+}, {
+  "project": "mkdocs",
+  "num_downloads": "212637"
+}, {
+  "project": "pydub",
+  "num_downloads": "211434"
+}, {
+  "project": "pyrfc3339",
+  "num_downloads": "211402"
+}, {
+  "project": "oracledb",
+  "num_downloads": "210992"
+}, {
+  "project": "wcmatch",
+  "num_downloads": "210735"
+}, {
+  "project": "torchmetrics",
+  "num_downloads": "210542"
+}, {
+  "project": "azure-eventhub",
+  "num_downloads": "210219"
+}, {
+  "project": "toposort",
+  "num_downloads": "210080"
+}, {
+  "project": "constantly",
+  "num_downloads": "209853"
+}, {
+  "project": "statsd",
+  "num_downloads": "209229"
+}, {
+  "project": "multimethod",
+  "num_downloads": "208940"
+}, {
+  "project": "faiss-cpu",
+  "num_downloads": "208784"
+}, {
+  "project": "automat",
+  "num_downloads": "207394"
+}, {
+  "project": "bandit",
+  "num_downloads": "206330"
+}, {
+  "project": "boltons",
+  "num_downloads": "206185"
+}, {
+  "project": "protobuf3-to-dict",
+  "num_downloads": "205817"
+}, {
+  "project": "orbax-checkpoint",
+  "num_downloads": "205284"
+}, {
+  "project": "apache-airflow-providers-smtp",
+  "num_downloads": "204798"
+}, {
+  "project": "pyaml",
+  "num_downloads": "204788"
+}, {
+  "project": "frozendict",
+  "num_downloads": "204475"
+}, {
+  "project": "swagger-ui-bundle",
+  "num_downloads": "204378"
+}, {
+  "project": "kfp-pipeline-spec",
+  "num_downloads": "203422"
+}, {
+  "project": "pywin32-ctypes",
+  "num_downloads": "201276"
+}, {
+  "project": "tomli-w",
+  "num_downloads": "200718"
+}, {
+  "project": "apache-airflow-providers-common-io",
+  "num_downloads": "200272"
+}, {
+  "project": "hiredis",
+  "num_downloads": "199399"
+}, {
+  "project": "google-cloud-storage-transfer",
+  "num_downloads": "199125"
+}, {
+  "project": "google-cloud-run",
+  "num_downloads": "198602"
+}, {
+  "project": "aws-lambda-powertools",
+  "num_downloads": "198333"
+}, {
+  "project": "cytoolz",
+  "num_downloads": "197494"
+}, {
+  "project": "fiona",
+  "num_downloads": "197246"
+}, {
+  "project": "cerberus",
+  "num_downloads": "197098"
+}, {
+  "project": "ldap3",
+  "num_downloads": "196873"
+}, {
+  "project": "minimal-snowplow-tracker",
+  "num_downloads": "196356"
+}, {
+  "project": "setuptools-rust",
+  "num_downloads": "195139"
+}, {
+  "project": "asyncio",
+  "num_downloads": "195091"
+}, {
+  "project": "stringcase",
+  "num_downloads": "194594"
+}, {
+  "project": "tensorflow-text",
+  "num_downloads": "194034"
+}, {
+  "project": "lightning-utilities",
+  "num_downloads": "193664"
+}, {
+  "project": "slackclient",
+  "num_downloads": "193651"
+}, {
+  "project": "numexpr",
+  "num_downloads": "193315"
+}, {
+  "project": "gradio-client",
+  "num_downloads": "192291"
+}, {
+  "project": "sqlalchemy-redshift",
+  "num_downloads": "192254"
+}, {
+  "project": "parsimonious",
+  "num_downloads": "192087"
+}, {
+  "project": "eth-hash",
+  "num_downloads": "192000"
+}, {
+  "project": "ghp-import",
+  "num_downloads": "190533"
+}, {
+  "project": "pathy",
+  "num_downloads": "190324"
+}, {
+  "project": "lit",
+  "num_downloads": "190192"
+}, {
+  "project": "sphinxcontrib-jquery",
+  "num_downloads": "189923"
+}, {
+  "project": "mechanize",
+  "num_downloads": "189871"
+}, {
+  "project": "mypy-boto3-redshift-data",
+  "num_downloads": "189713"
+}, {
+  "project": "django-extensions",
+  "num_downloads": "189088"
+}, {
+  "project": "imgkit",
+  "num_downloads": "188878"
+}, {
+  "project": "pytest-django",
+  "num_downloads": "188054"
+}, {
+  "project": "pyyaml-env-tag",
+  "num_downloads": "187907"
+}, {
+  "project": "pathlib",
+  "num_downloads": "187271"
+}, {
+  "project": "checkov",
+  "num_downloads": "187172"
+}, {
+  "project": "fixedint",
+  "num_downloads": "187019"
+}, {
+  "project": "pydeck",
+  "num_downloads": "186977"
+}, {
+  "project": "trino",
+  "num_downloads": "186748"
+}, {
+  "project": "google-cloud",
+  "num_downloads": "186670"
+}, {
+  "project": "distributed",
+  "num_downloads": "186538"
+}, {
+  "project": "types-pyopenssl",
+  "num_downloads": "186366"
+}, {
+  "project": "pandas-stubs",
+  "num_downloads": "185993"
+}, {
+  "project": "requests-ntlm",
+  "num_downloads": "185682"
+}, {
+  "project": "emoji",
+  "num_downloads": "185133"
+}, {
+  "project": "hexbytes",
+  "num_downloads": "184156"
+}, {
+  "project": "events",
+  "num_downloads": "183930"
+}, {
+  "project": "jsonrpclib",
+  "num_downloads": "183736"
+}, {
+  "project": "service-identity",
+  "num_downloads": "183664"
+}, {
+  "project": "filetype",
+  "num_downloads": "183574"
+}, {
+  "project": "pyelftools",
+  "num_downloads": "183546"
+}, {
+  "project": "azure-core-tracing-opentelemetry",
+  "num_downloads": "183228"
+}, {
+  "project": "langchain-openai",
+  "num_downloads": "182623"
+}, {
+  "project": "slowaes",
+  "num_downloads": "182576"
+}, {
+  "project": "expiringdict",
+  "num_downloads": "182476"
+}, {
+  "project": "playwright",
+  "num_downloads": "182211"
+}, {
+  "project": "sentence-transformers",
+  "num_downloads": "181584"
+}, {
+  "project": "jellyfish",
+  "num_downloads": "180796"
+}, {
+  "project": "aiodns",
+  "num_downloads": "180621"
+}, {
+  "project": "bokeh",
+  "num_downloads": "179940"
+}, {
+  "project": "webob",
+  "num_downloads": "179909"
+}, {
+  "project": "azure-functions",
+  "num_downloads": "179279"
+}, {
+  "project": "h3",
+  "num_downloads": "179158"
+}, {
+  "project": "web3",
+  "num_downloads": "179155"
+}, {
+  "project": "pyperclip",
+  "num_downloads": "178693"
+}, {
+  "project": "aiohttp-retry",
+  "num_downloads": "178481"
+}, {
+  "project": "eth-utils",
+  "num_downloads": "178430"
+}, {
+  "project": "tensorstore",
+  "num_downloads": "178256"
+}, {
+  "project": "ipdb",
+  "num_downloads": "177155"
+}, {
+  "project": "jsonref",
+  "num_downloads": "177055"
+}, {
+  "project": "jsonlines",
+  "num_downloads": "177038"
+}, {
+  "project": "sqlalchemy-spanner",
+  "num_downloads": "176762"
+}, {
+  "project": "eth-typing",
+  "num_downloads": "175935"
+}, {
+  "project": "unittest-xml-reporting",
+  "num_downloads": "174007"
+}, {
+  "project": "qrcode",
+  "num_downloads": "173924"
+}, {
+  "project": "opencensus-ext-logging",
+  "num_downloads": "173536"
+}, {
+  "project": "django-storages",
+  "num_downloads": "173507"
+}, {
+  "project": "behave",
+  "num_downloads": "173042"
+}, {
+  "project": "azure-monitor-opentelemetry",
+  "num_downloads": "172733"
+}, {
+  "project": "azure-cosmosdb-table",
+  "num_downloads": "172519"
+}, {
+  "project": "cssselect2",
+  "num_downloads": "172386"
+}, {
+  "project": "scikit-build-core",
+  "num_downloads": "172353"
+}, {
+  "project": "blobfile",
+  "num_downloads": "171809"
+}, {
+  "project": "opentelemetry-resource-detector-azure",
+  "num_downloads": "171677"
+}, {
+  "project": "sklearn",
+  "num_downloads": "171416"
+}, {
+  "project": "aiosqlite",
+  "num_downloads": "171388"
+}, {
+  "project": "launchdarkly-server-sdk",
+  "num_downloads": "171375"
+}, {
+  "project": "pathable",
+  "num_downloads": "171343"
+}, {
+  "project": "pycomposefile",
+  "num_downloads": "171072"
+}, {
+  "project": "binaryornot",
+  "num_downloads": "170782"
+}, {
+  "project": "google",
+  "num_downloads": "170110"
+}, {
+  "project": "async-generator",
+  "num_downloads": "169492"
+}, {
+  "project": "xyzservices",
+  "num_downloads": "169225"
+}, {
+  "project": "constructs",
+  "num_downloads": "168855"
+}, {
+  "project": "pymupdf",
+  "num_downloads": "168836"
+}, {
+  "project": "kfp-server-api",
+  "num_downloads": "168529"
+}, {
+  "project": "webdriver-manager",
+  "num_downloads": "168377"
+}, {
+  "project": "pytest-env",
+  "num_downloads": "167927"
+}, {
+  "project": "eth-keys",
+  "num_downloads": "167920"
+}, {
+  "project": "atomicwrites",
+  "num_downloads": "167136"
+}, {
+  "project": "bidict",
+  "num_downloads": "166914"
+}, {
+  "project": "optree",
+  "num_downloads": "166768"
+}, {
+  "project": "weasel",
+  "num_downloads": "166698"
+}, {
+  "project": "pandera",
+  "num_downloads": "166253"
+}, {
+  "project": "mypy-boto3-dynamodb",
+  "num_downloads": "166040"
+}, {
+  "project": "cookiecutter",
+  "num_downloads": "165869"
+}, {
+  "project": "types-docutils",
+  "num_downloads": "165290"
+}, {
+  "project": "addict",
+  "num_downloads": "165152"
+}, {
+  "project": "appnope",
+  "num_downloads": "165034"
+}, {
+  "project": "cloudevents",
+  "num_downloads": "164752"
+}, {
+  "project": "eth-keyfile",
+  "num_downloads": "163666"
+}, {
+  "project": "types-paramiko",
+  "num_downloads": "162998"
+}, {
+  "project": "grpc-interceptor",
+  "num_downloads": "162883"
+}, {
+  "project": "rasterio",
+  "num_downloads": "162786"
+}, {
+  "project": "ffmpeg-python",
+  "num_downloads": "162657"
+}, {
+  "project": "types-six",
+  "num_downloads": "162505"
+}, {
+  "project": "pypng",
+  "num_downloads": "162435"
+}, {
+  "project": "apache-airflow-providers-slack",
+  "num_downloads": "162289"
+}, {
+  "project": "cx-oracle",
+  "num_downloads": "162174"
+}, {
+  "project": "rlp",
+  "num_downloads": "161895"
+}, {
+  "project": "convertdate",
+  "num_downloads": "161447"
+}, {
+  "project": "langdetect",
+  "num_downloads": "161175"
+}, {
+  "project": "pgpy",
+  "num_downloads": "160873"
+}, {
+  "project": "hyperopt",
+  "num_downloads": "160863"
+}, {
+  "project": "json-merge-patch",
+  "num_downloads": "160450"
+}, {
+  "project": "eth-abi",
+  "num_downloads": "160368"
+}, {
+  "project": "azure-storage",
+  "num_downloads": "159988"
+}, {
+  "project": "chroma-hnswlib",
+  "num_downloads": "159685"
+}, {
+  "project": "types-cachetools",
+  "num_downloads": "159436"
+}, {
+  "project": "lru-dict",
+  "num_downloads": "159273"
+}, {
+  "project": "flake8-bugbear",
+  "num_downloads": "159148"
+}, {
+  "project": "pyhumps",
+  "num_downloads": "158940"
+}, {
+  "project": "mkdocs-material-extensions",
+  "num_downloads": "158888"
+}, {
+  "project": "openlineage-integration-common",
+  "num_downloads": "158092"
+}, {
+  "project": "xlwt",
+  "num_downloads": "158028"
+}, {
+  "project": "pygit2",
+  "num_downloads": "156136"
+}, {
+  "project": "keyrings-google-artifactregistry-auth",
+  "num_downloads": "155658"
+}, {
+  "project": "py-partiql-parser",
+  "num_downloads": "155281"
+}, {
+  "project": "apache-airflow-providers-cncf-kubernetes",
+  "num_downloads": "155246"
+}, {
+  "project": "tensorboard-plugin-wit",
+  "num_downloads": "155184"
+}, {
+  "project": "nbclassic",
+  "num_downloads": "154833"
+}, {
+  "project": "rdflib",
+  "num_downloads": "154622"
+}, {
+  "project": "adlfs",
+  "num_downloads": "154373"
+}, {
+  "project": "python-socketio",
+  "num_downloads": "154292"
+}, {
+  "project": "geventhttpclient",
+  "num_downloads": "154227"
+}, {
+  "project": "aiokafka",
+  "num_downloads": "154172"
+}, {
+  "project": "gensim",
+  "num_downloads": "154142"
+}, {
+  "project": "types-toml",
+  "num_downloads": "154025"
+}, {
+  "project": "pybase64",
+  "num_downloads": "153881"
+}, {
+  "project": "python-decouple",
+  "num_downloads": "153728"
+}, {
+  "project": "azure-cosmosdb-nspkg",
+  "num_downloads": "153709"
+}, {
+  "project": "openlineage-python",
+  "num_downloads": "153697"
+}, {
+  "project": "pytest-ordering",
+  "num_downloads": "153630"
+}, {
+  "project": "databricks-pypi1",
+  "num_downloads": "153612"
+}, {
+  "project": "caio",
+  "num_downloads": "153152"
+}, {
+  "project": "python-engineio",
+  "num_downloads": "153118"
+}, {
+  "project": "mypy-boto3-sqs",
+  "num_downloads": "152622"
+}, {
+  "project": "face",
+  "num_downloads": "151877"
+}, {
+  "project": "glom",
+  "num_downloads": "151550"
+}, {
+  "project": "python3-openid",
+  "num_downloads": "151431"
+}, {
+  "project": "pyright",
+  "num_downloads": "151381"
+}, {
+  "project": "namex",
+  "num_downloads": "150904"
+}, {
+  "project": "prometheus-flask-exporter",
+  "num_downloads": "150689"
+}, {
+  "project": "mypy-boto3-lambda",
+  "num_downloads": "150569"
+}, {
+  "project": "sqlglot",
+  "num_downloads": "150072"
+}, {
+  "project": "pipdeptree",
+  "num_downloads": "149544"
+}, {
+  "project": "teradatasql",
+  "num_downloads": "149474"
+}, {
+  "project": "diff-cover",
+  "num_downloads": "149127"
+}, {
+  "project": "enum-compat",
+  "num_downloads": "148615"
+}, {
+  "project": "backports-weakref",
+  "num_downloads": "147893"
+}, {
+  "project": "ray",
+  "num_downloads": "147113"
+}, {
+  "project": "python-nvd3",
+  "num_downloads": "146586"
+}, {
+  "project": "blessed",
+  "num_downloads": "146508"
+}, {
+  "project": "django-debug-toolbar",
+  "num_downloads": "146422"
+}, {
+  "project": "click-option-group",
+  "num_downloads": "145845"
+}, {
+  "project": "configobj",
+  "num_downloads": "145813"
+}, {
+  "project": "dbt-snowflake",
+  "num_downloads": "145642"
+}, {
+  "project": "korean-lunar-calendar",
+  "num_downloads": "145515"
+}, {
+  "project": "markdown2",
+  "num_downloads": "144936"
+}, {
+  "project": "functions-framework",
+  "num_downloads": "144310"
+}, {
+  "project": "robotframework",
+  "num_downloads": "144252"
+}, {
+  "project": "schedule",
+  "num_downloads": "144113"
+}, {
+  "project": "scandir",
+  "num_downloads": "144074"
+}, {
+  "project": "spark-nlp",
+  "num_downloads": "144063"
+}, {
+  "project": "deltalake",
+  "num_downloads": "143343"
+}, {
+  "project": "feedparser",
+  "num_downloads": "143223"
+}, {
+  "project": "tokenize-rt",
+  "num_downloads": "142906"
+}, {
+  "project": "firebase-admin",
+  "num_downloads": "142860"
+}, {
+  "project": "atlassian-python-api",
+  "num_downloads": "142829"
+}, {
+  "project": "shortuuid",
+  "num_downloads": "140938"
+}, {
+  "project": "ckzg",
+  "num_downloads": "140631"
+}, {
+  "project": "keras-preprocessing",
+  "num_downloads": "140381"
+}, {
+  "project": "jwcrypto",
+  "num_downloads": "140287"
+}, {
+  "project": "azure-monitor-query",
+  "num_downloads": "139480"
+}, {
+  "project": "newrelic",
+  "num_downloads": "138774"
+}, {
+  "project": "fluent-logger",
+  "num_downloads": "138554"
+}, {
+  "project": "google-analytics-admin",
+  "num_downloads": "138334"
+}, {
+  "project": "jsonschema-path",
+  "num_downloads": "138194"
+}, {
+  "project": "fs",
+  "num_downloads": "138066"
+}, {
+  "project": "elementpath",
+  "num_downloads": "138008"
+}, {
+  "project": "mkdocs-get-deps",
+  "num_downloads": "137729"
+}, {
+  "project": "ciso8601",
+  "num_downloads": "137650"
+}, {
+  "project": "magicattr",
+  "num_downloads": "137638"
+}, {
+  "project": "kubernetes-asyncio",
+  "num_downloads": "137412"
+}, {
+  "project": "snowflake-snowpark-python",
+  "num_downloads": "137239"
+}, {
+  "project": "types-cffi",
+  "num_downloads": "137165"
+}, {
+  "project": "backports-tempfile",
+  "num_downloads": "136546"
+}, {
+  "project": "whitenoise",
+  "num_downloads": "136420"
+}, {
+  "project": "cssutils",
+  "num_downloads": "136393"
+}, {
+  "project": "dash",
+  "num_downloads": "136177"
+}, {
+  "project": "mypy-boto3-glue",
+  "num_downloads": "135723"
+}, {
+  "project": "cohere",
+  "num_downloads": "135423"
+}, {
+  "project": "jax",
+  "num_downloads": "134900"
+}, {
+  "project": "fakeredis",
+  "num_downloads": "134890"
+}, {
+  "project": "jsii",
+  "num_downloads": "134662"
+}, {
+  "project": "aioresponses",
+  "num_downloads": "134563"
+}, {
+  "project": "hatch",
+  "num_downloads": "134460"
+}, {
+  "project": "python-jenkins",
+  "num_downloads": "133846"
+}, {
+  "project": "pyqt5",
+  "num_downloads": "133170"
+}, {
+  "project": "google-cloud-datastore",
+  "num_downloads": "133132"
+}, {
+  "project": "python3-saml",
+  "num_downloads": "132534"
+}, {
+  "project": "mypy-boto3-secretsmanager",
+  "num_downloads": "132288"
+}, {
+  "project": "kazoo",
+  "num_downloads": "132139"
+}, {
+  "project": "diffusers",
+  "num_downloads": "132087"
+}, {
+  "project": "dbt-common",
+  "num_downloads": "131925"
+}, {
+  "project": "aws-cdk-lib",
+  "num_downloads": "131347"
+}, {
+  "project": "cbor2",
+  "num_downloads": "131297"
+}, {
+  "project": "databricks-pypi2",
+  "num_downloads": "129902"
+}, {
+  "project": "publication",
+  "num_downloads": "129740"
+}, {
+  "project": "altgraph",
+  "num_downloads": "129125"
+}, {
+  "project": "amazon-ion",
+  "num_downloads": "129078"
+}, {
+  "project": "keras-applications",
+  "num_downloads": "128988"
+}, {
+  "project": "flower",
+  "num_downloads": "128568"
+}, {
+  "project": "uuid",
+  "num_downloads": "128393"
+}, {
+  "project": "pyinstaller-hooks-contrib",
+  "num_downloads": "127791"
+}, {
+  "project": "xmlschema",
+  "num_downloads": "127785"
+}, {
+  "project": "django-redis",
+  "num_downloads": "127590"
+}, {
+  "project": "user-agents",
+  "num_downloads": "127511"
+}, {
+  "project": "eventlet",
+  "num_downloads": "127264"
+}, {
+  "project": "dbt-adapters",
+  "num_downloads": "126862"
+}, {
+  "project": "tweepy",
+  "num_downloads": "126801"
+}, {
+  "project": "kaleido",
+  "num_downloads": "126251"
+}, {
+  "project": "comtypes",
+  "num_downloads": "126173"
+}, {
+  "project": "terminaltables",
+  "num_downloads": "126025"
+}, {
+  "project": "peft",
+  "num_downloads": "126011"
+}, {
+  "project": "html2text",
+  "num_downloads": "125924"
+}, {
+  "project": "construct",
+  "num_downloads": "125735"
+}, {
+  "project": "orderedmultidict",
+  "num_downloads": "125525"
+}, {
+  "project": "pooch",
+  "num_downloads": "125490"
+}, {
+  "project": "supafunc",
+  "num_downloads": "125446"
+}, {
+  "project": "gotrue",
+  "num_downloads": "125395"
+}, {
+  "project": "realtime",
+  "num_downloads": "125172"
+}, {
+  "project": "tensorflow-metadata",
+  "num_downloads": "125129"
+}, {
+  "project": "supabase",
+  "num_downloads": "124607"
+}, {
+  "project": "storage3",
+  "num_downloads": "124437"
+}, {
+  "project": "postgrest",
+  "num_downloads": "124272"
+}, {
+  "project": "w3lib",
+  "num_downloads": "124225"
+}, {
+  "project": "cheroot",
+  "num_downloads": "123970"
+}, {
+  "project": "pymeeus",
+  "num_downloads": "123797"
+}, {
+  "project": "questionary",
+  "num_downloads": "123755"
+}, {
+  "project": "pyinstaller",
+  "num_downloads": "123591"
+}, {
+  "project": "jaxlib",
+  "num_downloads": "123531"
+}, {
+  "project": "types-tabulate",
+  "num_downloads": "123016"
+}, {
+  "project": "pymupdfb",
+  "num_downloads": "122671"
+}, {
+  "project": "grpcio-reflection",
+  "num_downloads": "122655"
+}, {
+  "project": "oldest-supported-numpy",
+  "num_downloads": "122587"
+}, {
+  "project": "pymsteams",
+  "num_downloads": "122469"
+}, {
+  "project": "msgspec",
+  "num_downloads": "122281"
+}, {
+  "project": "moreorless",
+  "num_downloads": "122154"
+}, {
+  "project": "yq",
+  "num_downloads": "122118"
+}, {
+  "project": "hydra-core",
+  "num_downloads": "121773"
+}, {
+  "project": "sphinx-design",
+  "num_downloads": "120761"
+}, {
+  "project": "mypy-boto3-ec2",
+  "num_downloads": "120296"
+}, {
+  "project": "pyqt5-sip",
+  "num_downloads": "120118"
+}, {
+  "project": "cmdstanpy",
+  "num_downloads": "119932"
+}, {
+  "project": "myst-parser",
+  "num_downloads": "119036"
+}, {
+  "project": "dash-core-components",
+  "num_downloads": "118369"
+}, {
+  "project": "asyncclick",
+  "num_downloads": "118256"
+}, {
+  "project": "dash-html-components",
+  "num_downloads": "118255"
+}, {
+  "project": "mongomock",
+  "num_downloads": "118126"
+}, {
+  "project": "optuna",
+  "num_downloads": "118040"
+}, {
+  "project": "pyhamcrest",
+  "num_downloads": "117841"
+}, {
+  "project": "dash-table",
+  "num_downloads": "117683"
+}, {
+  "project": "promise",
+  "num_downloads": "117009"
+}, {
+  "project": "dbt-postgres",
+  "num_downloads": "116847"
+}, {
+  "project": "seleniumbase",
+  "num_downloads": "116828"
+}, {
+  "project": "jdcal",
+  "num_downloads": "116610"
+}, {
+  "project": "asyncssh",
+  "num_downloads": "116471"
+}, {
+  "project": "trailrunner",
+  "num_downloads": "116448"
+}, {
+  "project": "dm-tree",
+  "num_downloads": "116247"
+}, {
+  "project": "pynamodb",
+  "num_downloads": "115850"
+}, {
+  "project": "av",
+  "num_downloads": "115745"
+}, {
+  "project": "smbprotocol",
+  "num_downloads": "115478"
+}, {
+  "project": "python-telegram-bot",
+  "num_downloads": "115423"
+}, {
+  "project": "simple-websocket",
+  "num_downloads": "115290"
+}, {
+  "project": "strip-hints",
+  "num_downloads": "115277"
+}, {
+  "project": "launchdarkly-eventsource",
+  "num_downloads": "115146"
+}, {
+  "project": "django-environ",
+  "num_downloads": "115092"
+}, {
+  "project": "affine",
+  "num_downloads": "115069"
+}, {
+  "project": "azureml-dataprep-native",
+  "num_downloads": "114818"
+}, {
+  "project": "tlparse",
+  "num_downloads": "114338"
+}, {
+  "project": "cog",
+  "num_downloads": "114125"
+}, {
+  "project": "python-editor",
+  "num_downloads": "113992"
+}, {
+  "project": "furl",
+  "num_downloads": "113920"
+}, {
+  "project": "influxdb-client",
+  "num_downloads": "113700"
+}, {
+  "project": "pynose",
+  "num_downloads": "113457"
+}, {
+  "project": "dictdiffer",
+  "num_downloads": "113400"
+}, {
+  "project": "pypyp",
+  "num_downloads": "113361"
+}, {
+  "project": "seqio-nightly",
+  "num_downloads": "112884"
+}, {
+  "project": "pytest-benchmark",
+  "num_downloads": "112749"
+}, {
+  "project": "peewee",
+  "num_downloads": "112710"
+}, {
+  "project": "pathlib-abc",
+  "num_downloads": "112476"
+}, {
+  "project": "facebook-business",
+  "num_downloads": "112111"
+}, {
+  "project": "datasketch",
+  "num_downloads": "112043"
+}, {
+  "project": "mypy-boto3-cloudformation",
+  "num_downloads": "111899"
+}, {
+  "project": "dbt-bigquery",
+  "num_downloads": "111387"
+}, {
+  "project": "nvidia-cusolver-cu11",
+  "num_downloads": "111312"
+}, {
+  "project": "nvidia-nccl-cu11",
+  "num_downloads": "111043"
+}, {
+  "project": "pdbp",
+  "num_downloads": "110943"
+}, {
+  "project": "nvidia-cusparse-cu11",
+  "num_downloads": "110897"
+}, {
+  "project": "url-normalize",
+  "num_downloads": "110839"
+}, {
+  "project": "tabcompleter",
+  "num_downloads": "110732"
+}, {
+  "project": "drf-spectacular",
+  "num_downloads": "110584"
+}, {
+  "project": "pyhocon",
+  "num_downloads": "110465"
+}, {
+  "project": "num2words",
+  "num_downloads": "110401"
+}, {
+  "project": "beartype",
+  "num_downloads": "110391"
+}, {
+  "project": "nvidia-cuda-cupti-cu11",
+  "num_downloads": "110389"
+}, {
+  "project": "langchain-google-vertexai",
+  "num_downloads": "110168"
+}, {
+  "project": "hijri-converter",
+  "num_downloads": "110135"
+}, {
+  "project": "nvidia-cufft-cu11",
+  "num_downloads": "110092"
+}, {
+  "project": "opentracing",
+  "num_downloads": "109899"
+}, {
+  "project": "fastcore",
+  "num_downloads": "109870"
+}, {
+  "project": "sbvirtualdisplay",
+  "num_downloads": "109794"
+}, {
+  "project": "nvidia-curand-cu11",
+  "num_downloads": "109761"
+}, {
+  "project": "hatch-vcs",
+  "num_downloads": "109555"
+}, {
+  "project": "sphinx-copybutton",
+  "num_downloads": "109522"
+}, {
+  "project": "djangorestframework-simplejwt",
+  "num_downloads": "109145"
+}, {
+  "project": "minio",
+  "num_downloads": "109056"
+}, {
+  "project": "hdfs",
+  "num_downloads": "108878"
+}, {
+  "project": "pyqt5-qt5",
+  "num_downloads": "108534"
+}, {
+  "project": "azure-search-documents",
+  "num_downloads": "108294"
+}, {
+  "project": "posthog",
+  "num_downloads": "108178"
+}, {
+  "project": "pycocotools",
+  "num_downloads": "107938"
+}, {
+  "project": "nvidia-nvtx-cu11",
+  "num_downloads": "107712"
+}, {
+  "project": "pypandoc",
+  "num_downloads": "107479"
+}, {
+  "project": "snuggs",
+  "num_downloads": "107374"
+}, {
+  "project": "pyfakefs",
+  "num_downloads": "106767"
+}, {
+  "project": "pep8-naming",
+  "num_downloads": "106572"
+}, {
+  "project": "flask-restful",
+  "num_downloads": "106505"
+}, {
+  "project": "prophet",
+  "num_downloads": "105826"
+}, {
+  "project": "readchar",
+  "num_downloads": "105671"
+}, {
+  "project": "pyphen",
+  "num_downloads": "105621"
+}, {
+  "project": "ultralytics",
+  "num_downloads": "105618"
+}, {
+  "project": "rich-click",
+  "num_downloads": "105208"
+}, {
+  "project": "netifaces",
+  "num_downloads": "105192"
+}, {
+  "project": "flake8-docstrings",
+  "num_downloads": "105101"
+}, {
+  "project": "pystache",
+  "num_downloads": "104978"
+}, {
+  "project": "pypika",
+  "num_downloads": "104654"
+}, {
+  "project": "voluptuous",
+  "num_downloads": "104210"
+}, {
+  "project": "diff-match-patch",
+  "num_downloads": "104178"
+}, {
+  "project": "pywinauto",
+  "num_downloads": "104027"
+}, {
+  "project": "flaky",
+  "num_downloads": "103903"
+}, {
+  "project": "concurrent-log-handler",
+  "num_downloads": "103903"
+}, {
+  "project": "backports-functools-lru-cache",
+  "num_downloads": "103334"
+}, {
+  "project": "plotnine",
+  "num_downloads": "103192"
+}, {
+  "project": "click-default-group",
+  "num_downloads": "103167"
+}, {
+  "project": "timezonefinder",
+  "num_downloads": "103053"
+}, {
+  "project": "allure-python-commons",
+  "num_downloads": "102747"
+}, {
+  "project": "pint",
+  "num_downloads": "102724"
+}, {
+  "project": "dask-expr",
+  "num_downloads": "102701"
+}, {
+  "project": "aioboto3",
+  "num_downloads": "102558"
+}, {
+  "project": "asana",
+  "num_downloads": "102475"
+}, {
+  "project": "sseclient-py",
+  "num_downloads": "102451"
+}, {
+  "project": "dynamodb-json",
+  "num_downloads": "102154"
+}, {
+  "project": "pyhive",
+  "num_downloads": "102101"
+}, {
+  "project": "pkgconfig",
+  "num_downloads": "102093"
+}, {
+  "project": "python-box",
+  "num_downloads": "101906"
+}, {
+  "project": "stdlibs",
+  "num_downloads": "101814"
+}, {
+  "project": "anthropic",
+  "num_downloads": "101734"
+}, {
+  "project": "py-spy",
+  "num_downloads": "101656"
+}, {
+  "project": "usort",
+  "num_downloads": "101618"
+}, {
+  "project": "syrupy",
+  "num_downloads": "101521"
+}, {
+  "project": "opentelemetry-instrumentation-logging",
+  "num_downloads": "101440"
+}, {
+  "project": "clickhouse-driver",
+  "num_downloads": "100992"
+}, {
+  "project": "pprintpp",
+  "num_downloads": "100796"
+}, {
+  "project": "ufmt",
+  "num_downloads": "100722"
+}]
